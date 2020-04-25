@@ -1,7 +1,16 @@
-# ImageGlass theme packs
+🎏 ImageGlass theme packs
+==
 The up-to-date theme packs for [ImageGlass](https://imageglass.org/)
 
-## Theme pack folder structure
+[![Website](https://img.shields.io/badge/www-imageglass.org-0099BC.svg?maxAge=3600)](https://imageglass.org)
+[![GPL Licence](https://img.shields.io/badge/license-MIT-green.svg?maxAge=3600)](https://github.com/ImageGlass/theme/blob/master/LICENSE)
+
+
+[![Total Downloads](https://img.shields.io/github/downloads/ImageGlass/theme/total?color=%233097B8&label=downloads&style=for-the-badge)](https://imageglass.org/themes)
+
+
+
+## 📂 Theme pack folder structure
 A theme pack contains:
 - 1 `config.xml` file
 - 1 preview image file
@@ -16,7 +25,7 @@ THEME_NAME
 |-- SVG icon files...
 ```
 
-## How to create a new theme pack
+## 🎨 How to create a new theme pack?
 ### 1. Create theme pack folder structure
 ### 2. Create `config.xml` file
 This is the most important file of the theme, it provides all the SVG icon files to ImageGlass app and other information of your theme.
@@ -135,13 +144,53 @@ convert | `convert="Convert.svg"` | The Save image as button.
 menu | `menu="Menu.svg"` | The main menu button.
 
 
+### 3. Add icons and image files
+### 4. Add preview image file for your theme (step 2.1)
+### 5. Pack your theme
+- Zip the whole theme folder as `.zip`.
+- Change the `.zip` extension to `.igtheme`.
+
+### 6. Share your theme
+After creating a nice theme, don't forget sharing it to other people. You can
+- Create [an issue here](https://github.com/ImageGlass/theme/issues), and attach your awesome theme; or
+- Send your theme pack (`.igtheme`) to `phap@imageglass.org` email.
 
 
 
 
+## Donation
+ImageGlass is free and open source but developing it has taken thousands of hours of my time and a large part of my sanity. If you feel this little viewer useful to you, it would go a great way to ensuring that I can afford to take the time to continue to develop it.
+
+Thanks for your gratitude and finance help!
+
+<a href="https://www.paypal.me/d2phap" target="_blank" title="Buy me a beer?">
+<img src="https://img.shields.io/badge/PayPal-Donate%20$10%20-009be1.svg?maxAge=3600" height="30" alt="Buy me a beer?">
+</a>
+
+
+<a href="https://github.com/sponsors/d2phap" target="_blank" title="Become a sponsor">
+<img src="https://img.shields.io/badge/Github-github.com%2Fsponsor%2Fd2phap-E84646.svg?maxAge=3600" height="30" alt="Become a sponsor">
+</a>
+
+
+
+<img src="https://img.shields.io/badge/Bitcoin-Donate-f7931a.svg?maxAge=3600" height="30" alt="Bitcoin">
+
+```
+3Hp7QLP9Fxpb1s4CAcZFYR7NUgN1bR93Hy
+```
+
+
+
+<img src="https://img.shields.io/badge/Ethereum-Donate-131313.svg?maxAge=3600" height="30" alt="Ethereum">
+
+```
+0x6DDBd646586bebF7a97e022D615cbE789D39a965
+```
 
 
 
 
-
+### ❤
+Thank you!
 
