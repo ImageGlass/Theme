@@ -9,10 +9,15 @@ The up-to-date theme packs for [ImageGlass](https://imageglass.org/)
 [![Total Downloads](https://img.shields.io/github/downloads/ImageGlass/theme/total?color=%233097B8&label=downloads&style=for-the-badge)](https://imageglass.org/themes)
 
 
+## ⌚ Change history
+This instruction is always for the latest version of ImageGlass. If you are using the older versions, please see the changes (if any) at:
+
+https://github.com/ImageGlass/theme/releases
+
 
 ## 📂 Theme pack folder structure
 A theme pack contains:
-- 1 `config.xml` file
+- 1 `igtheme.xml` file
 - 1 preview image file
 - And SVG icon files
 
@@ -20,16 +25,16 @@ All of these files should be placed in a folder.
 
 ```
 THEME_NAME
-|-- config.xml
+|-- igtheme.xml
 |-- preview image file
 |-- SVG icon files...
 ```
 
 ## 🎨 How to create a new theme pack?
 ### 1. Create theme pack folder structure
-### 2. Create `config.xml` file
+### 2. Create `igtheme.xml` file
 This is the most important file of the theme, it provides all the SVG icon files to ImageGlass app and other information of your theme.
-You can see full `config.xml` example at https://github.com/ImageGlass/theme/blob/master/themes/dark/2017_dark/config.xml
+You can see full `igtheme.xml` example at https://github.com/ImageGlass/theme/blob/master/themes/dark/2017_dark/igtheme.xml
 
 There are 3 sections in `<Theme>` element:
 
@@ -157,35 +162,35 @@ After creating a nice theme, don't forget sharing it to other people. You can
 
 
 
-
-## Donation
+## 💖 Support this project
 ImageGlass is free and open source but developing it has taken thousands of hours of my time and a large part of my sanity. If you feel this little viewer useful to you, it would go a great way to ensuring that I can afford to take the time to continue to develop it.
 
 Thanks for your gratitude and finance help!
 
-<a href="https://www.paypal.me/d2phap" target="_blank" title="Buy me a beer?">
-<img src="https://img.shields.io/badge/PayPal-Donate%20$10%20-009be1.svg?maxAge=3600" height="30" alt="Buy me a beer?">
+<a href="https://www.patreon.com/d2phap" target="_blank" title="Become a patron">
+<img src="https://img.shields.io/badge/Patreon-@d2phap%20-e85b46.svg?maxAge=3600" height="30" alt="Buy me a beer?">
 </a>
 
+<a href="https://www.paypal.me/ddphap" target="_blank" title="Buy me a beer?">
+<img src="https://img.shields.io/badge/PayPal-Donate%20$10%20-0070ba.svg?maxAge=3600" height="30" alt="Buy me a beer?">
+</a>
 
 <a href="https://github.com/sponsors/d2phap" target="_blank" title="Become a sponsor">
-<img src="https://img.shields.io/badge/Github-github.com%2Fsponsor%2Fd2phap-E84646.svg?maxAge=3600" height="30" alt="Become a sponsor">
+<img src="https://img.shields.io/badge/Github-@d2phap-24292e.svg?maxAge=3600" height="30" alt="Become a sponsor">
 </a>
 
 
+### Cryptocurrency donation:
 
-<img src="https://img.shields.io/badge/Bitcoin-Donate-f7931a.svg?maxAge=3600" height="30" alt="Bitcoin">
+```bash
+# Chainlink
+0x4267Bd7c062f69fF233538Df83099C737f56094f
 
-```
+# Ethereum
+0xDc91F762C13b207eb1270fCBEdB464F1507B030C
+
+# Bitcoin
 3Hp7QLP9Fxpb1s4CAcZFYR7NUgN1bR93Hy
-```
-
-
-
-<img src="https://img.shields.io/badge/Ethereum-Donate-131313.svg?maxAge=3600" height="30" alt="Ethereum">
-
-```
-0x6DDBd646586bebF7a97e022D615cbE789D39a965
 ```
 
 
