@@ -53,27 +53,27 @@ Provides general information of your theme packs, all options are:
 
 Key | Example | Description
 -- | -- | --
-name | `name="2017 (Dark)"` | Name of your theme which people will see it in ImageGlass theme list.
+name | `Kobe"` | Name of your theme which people will see it in ImageGlass theme list.
 description | `description="Modern ImageGlass theme (Dark)"` | A short description of your theme.
 version | `version="1.0"` | The version number of your theme.
 author | `author="Duong Dieu Phap"` | The author name who creates this theme pack (optional).
 email | `email="phap@imageglass.org"` | The contact email of the author (optional).
 website | `website="https://imageglass.org"` | The website of the author (optional).
 type | `type="ImageGlass Theme Configuration"` | 🚫 Just a constant (don't change it).
-compatibility | `compatibility="5.0"` | The minimum ImageGlass version that this theme can work with.
-preview | `preview="preview.png"` | The small preview image which people will have a glance on it. The size should be `253 x 100 px`.
+compatibility | `compatibility="5.0"` | The minimum ImageGlass version that this theme can work with in format [major.minor].
+preview | `preview="preview.jpg"` | The small preview image which people will have a glance on it.
 
 Full example:
 ```xml
-<Info name="2017 (Dark)"
-    version="4.1"
-    author="Dương Diệu Pháp"
+<Info name="Kobe"
+    version="8.0"
+    author="Duong Dieu Phap"
     email="phap@imageglass.org"
     website="https://imageglass.org"
-    description="Modern ImageGlass theme (Dark)"
+    description="Modern ImageGlass theme"
     type="ImageGlass Theme Configuration"
-    compatibility="5.0"
-    preview="preview.png" />
+    compatibility="8.0"
+    preview="preview.jpg" />
 ```
 
 #### 2.2 `<main />` element
@@ -85,10 +85,18 @@ topbarcolor | `topbarcolor="#3a3c3d"` | The color of toolbar.
 bottombarcolor | `bottombarcolor="#3a3c3d"` | The color of thumbnail bar.
 backcolor | `backcolor="#3a3c3d"` | The color of viewer area.
 statuscolor | `statuscolor="#f0f0f0"` | The color of text, used in tool forms: Color picker, Page navigation, ...
-menubackgroundcolor | `menubackgroundcolor="#484b4c"` | The background color of menu.
-menutextcolor | `menutextcolor="#f0f0f0"` | The text color of menu.
+menubackgroundcolor | `menubackgroundcolor="#484b4c"` | The background color of menu item.
+menubackgroundhovercolor 🆕 | `menubackgroundhovercolor="#686868"` | The background color of menu item on hover.
+menutextcolor | `menutextcolor="#f0f0f0"` | The text color of menu item.
+menutexthovercolor 🆕 | `menutexthovercolor="#f0f0f0"` | The text color of menu item on hover.
 topbar | `topbar="toolbar_bg.png"` | The background image file of the toolbar. This overrides the `topbarcolor` value. Invalid file ignored.
 bottombar | `bottombar="thumb_bg.png"` | The background image file of the thumbnail. This overrides the `bottombarcolor` value. Invalid file ignored.
+accentcolor 🆕 | `accentcolor="#f00"` | The accent color.
+accentlightcolor 🆕 | `accentlightcolor="#f00"` | The accent light color.
+accentdarkcolor 🆕 | `accentdarkcolor="#f00"` | The accent dark color.
+logo 🆕 | `logo="logo.svg"` | The logo of ImageGlass, will display on title bar, About page, First-launch configuration page. Minimium size is 128px.
+isshowtitlebarlogo 🆕 | `isshowtitlebarlogo="True"` | Controls visibility of logo on title bar.
+
 
 Full example:
 ```xml
