@@ -1,7 +1,7 @@
 <ImageGlass>
   <Theme>
-    <Info name="2017 (Dark)" version="4.1" author="Dương Diệu Pháp" email="phap@imageglass.org" website="https://imageglass.org" description="Modern ImageGlass theme (Dark)" type="ImageGlass Theme Configuration" compatibility="5.0" preview="preview.png" />
-    <main topbar="x" topbarcolor="#3a3c3d" bottombar="x" bottombarcolor="#3a3c3d" backcolor="#3a3c3d" statuscolor="#f0f0f0" menubackgroundcolor="#484b4c" menutextcolor="#f0f0f0" />
+    <Info name="2017 (Light Gray)" version="8.0" author="Dương Diệu Pháp" email="phap@imageglass.org" website="https://imageglass.org" description="Modern ImageGlass theme (Light Gray)" type="ImageGlass Theme Configuration" configversion="8" preview="preview.jpg" />
+    <main topbar="" topbarcolor="#EAEAF2" bottombar="" bottombarcolor="#EAEAF2" backcolor="#FFFFFF" statuscolor="#000000" />
     <toolbar_icon 
         back="ViewPreviousImage.svg"
         next="ViewNextImage.svg"
@@ -27,7 +27,7 @@
         convert="Convert.svg"
         print="Print.svg"
         menu="Menu.svg"
-        delete="delete.svg"
+		delete="delete.svg"
         fliphorz="FlipHorz.svg" 
         flipvert="FlipVert.svg"
         gofirst="GoToFirst.svg"
@@ -35,6 +35,6 @@
         edit="Edit.svg"
         crop="Crop.svg"
         colorpicker="ColorPicker.svg"
-        />
+		/>
   </Theme>
 </ImageGlass>

@@ -59,9 +59,9 @@ version | `version="1.0"` | The version number of your theme.
 author | `author="Duong Dieu Phap"` | The author name who creates this theme pack (optional).
 email | `email="phap@imageglass.org"` | The contact email of the author (optional).
 website | `website="https://imageglass.org"` | The website of the author (optional).
+preview | `preview="preview.jpg"` | The preview image which people will have a glance on it.
+configversion | `configversion="8"` | 🚫 Version of configuration file (don't change it).
 type | `type="ImageGlass Theme Configuration"` | 🚫 Just a constant (don't change it).
-compatibility | `compatibility="5.0"` | The minimum ImageGlass version that this theme can work with in format [major.minor].
-preview | `preview="preview.jpg"` | The small preview image which people will have a glance on it.
 
 Full example:
 ```xml
@@ -72,7 +72,7 @@ Full example:
     website="https://imageglass.org"
     description="Modern ImageGlass theme"
     type="ImageGlass Theme Configuration"
-    compatibility="8.0"
+    configversion="8.0"
     preview="preview.jpg" />
 ```
 
