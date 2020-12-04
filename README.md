@@ -60,7 +60,7 @@ author | `author="Duong Dieu Phap"` | The author name who creates this theme pac
 email | `email="phap@imageglass.org"` | The contact email of the author (optional).
 website | `website="https://imageglass.org"` | The website of the author (optional).
 preview | `preview="preview.jpg"` | The preview image which people will have a glance on it.
-configversion | `configversion="8"` | 🚫 Version of configuration file (don't change it).
+configversion 🆕 | `configversion="8"` | 🚫 Version of configuration file (don't change it).
 type | `type="ImageGlass Theme Configuration"` | 🚫 Just a constant (don't change it).
 
 Full example:
