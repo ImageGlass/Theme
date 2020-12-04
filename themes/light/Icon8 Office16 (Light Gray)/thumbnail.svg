@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<rect x="0.5" y="1.5" style="fill:#FFC49C;" width="15" height="13"></rect>
+		<g>
+			<path style="fill:#A16A4A;" d="M15,2v12H1V2H15 M16,1H0v14h16V1L16,1z"></path>
+		</g>
+	</g>
+	<polygon style="fill:#C2805A;" points="10.897,7.83 8,10.166 11.985,14 15,14 15,11.639 	"></polygon>
+	<circle style="fill:#FFFFFF;" cx="12" cy="5" r="1"></circle>
+	<polygon style="fill:#E09367;" points="12.849,14 1,14 1,10.961 5.667,6.909 	"></polygon>
+	<g>
+		<path style="fill:#FFFFFF;" d="M14,3v10H2V3H14 M15,2H1v12h14V2L15,2z"></path>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

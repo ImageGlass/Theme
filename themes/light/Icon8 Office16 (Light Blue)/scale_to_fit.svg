@@ -1,0 +1,27 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g>
+		<rect x="1.316" y="11.28" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -7.7202 6.1748)" style="fill:#4E7AB5;" width="4.555" height="2.252"></rect>
+</g>
+<g>
+	<polygon style="fill:#4E7AB5;" points="0,11 5,16 0,16 	"></polygon>
+</g>
+<g>
+		<rect x="11.28" y="10.129" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.1389 12.4065)" style="fill:#4E7AB5;" width="2.252" height="4.555"></rect>
+</g>
+<g>
+	<polygon style="fill:#4E7AB5;" points="16,11 11,16 16,16 	"></polygon>
+</g>
+<g>
+	
+		<rect x="10.129" y="2.468" transform="matrix(0.7071 -0.7071 0.7071 0.7071 1.0928 9.8252)" style="fill:#4E7AB5;" width="4.555" height="2.252"></rect>
+</g>
+<g>
+	<polygon style="fill:#4E7AB5;" points="16,5 11,0 16,0 	"></polygon>
+</g>
+<g>
+		<rect x="2.468" y="1.316" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.4885 3.5935)" style="fill:#4E7AB5;" width="2.252" height="4.555"></rect>
+</g>
+<g>
+	<polygon style="fill:#4E7AB5;" points="0,5 5,0 0,0 	"></polygon>
+</g>
+</svg>
