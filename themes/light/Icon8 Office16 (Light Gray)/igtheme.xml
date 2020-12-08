@@ -1,0 +1,43 @@
+<ImageGlass>
+  <Theme>
+    <Info name="Icon8 Office16 (Light Gray)" version="3.0" author="Dương Diệu Pháp" email="phap@imageglass.org" website="http://imageglass.org" description="Office icon style from Icon8" type="ImageGlass Theme Configuration" configversion="8" preview="preview.jpg" />
+    <main
+      topbar=""
+      topbarcolor="#e0e0e0"
+      bottombar=""
+      bottombarcolor="#e0e0e0"
+      backcolor="#fafafa"
+      statuscolor="#000000"
+      menubackgroundcolor="#f5f5f5"
+      menutextcolor="#000000"
+      />
+    <toolbar_icon
+      back="back.svg"
+      next="next.svg"
+      leftrotate="rotate_left.svg"
+      rightrotate="rotate_right.svg"
+      delete="delete.svg"
+      zoomin="zoom_in.svg"
+      zoomout="zoom_out.svg"
+      autozoom="auto_zoom.svg"
+      zoomtofit="scale_to_fit.svg"
+      zoomlock="zoom_lock.svg"
+      scaletofit="zoom_actual_size.svg"
+      scaletowidth="scale_to_width.svg"
+      scaletoheight="scale_to_height.svg"
+      autosizewindow="adjust_window_size.svg"
+      open="open.svg"
+      refresh="refresh.svg"
+      gotoimage="goto.svg"
+      thumbnail="thumbnail.svg"
+      checkerboard="checkerboard.svg"
+      fullscreen="fullscreen.svg"
+      slideshow="slideshow.svg"
+      convert="save.svg"
+      print="print.svg"
+      menu="menu.svg"
+      fliphorz="flip_horiz.svg"
+      flipvert="flip_vert.svg"
+      />
+  </Theme>
+</ImageGlass>

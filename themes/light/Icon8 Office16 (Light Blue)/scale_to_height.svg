@@ -1,0 +1,29 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g>
+	<rect x="1" y="0" style="fill:#8BB7F0;" width="13" height="1"></rect>
+	<polygon style="fill:#4E7AB5;" points="14,0 1,0 1,1 14,1 14,0 	"></polygon>
+</g>
+<g>
+	<rect x="1" y="14" style="fill:#8BB7F0;" width="13" height="1"></rect>
+	<polygon style="fill:#4E7AB5;" points="14,14 1,14 1,15 14,15 14,14 	"></polygon>
+</g>
+<circle style="fill:#66798F;" cx="1.5" cy="12.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="1.5" cy="10.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="1.5" cy="8.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="1.5" cy="6.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="1.5" cy="4.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="1.5" cy="2.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="13.5" cy="12.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="13.5" cy="10.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="13.5" cy="8.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="13.5" cy="6.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="13.5" cy="4.5" r="0.5"></circle>
+<circle style="fill:#66798F;" cx="13.5" cy="2.5" r="0.5"></circle>
+<g>
+	<polygon style="fill:#66798F;" points="10,4 7.5,1 5,4 	"></polygon>
+</g>
+<g>
+	<polygon style="fill:#66798F;" points="5,11 7.5,14 10,11 	"></polygon>
+</g>
+<rect x="7" y="3" style="fill:#66798F;" width="1" height="9"></rect>
+</svg>

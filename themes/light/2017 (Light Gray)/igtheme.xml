@@ -1,0 +1,40 @@
+<ImageGlass>
+  <Theme>
+    <Info name="2017 (Light Gray)" version="8.0" author="Dương Diệu Pháp" email="phap@imageglass.org" website="https://imageglass.org" description="Modern ImageGlass theme (Light Gray)" type="ImageGlass Theme Configuration" configversion="8" preview="preview.jpg" />
+    <main topbar="" topbarcolor="#EAEAF2" bottombar="" bottombarcolor="#EAEAF2" backcolor="#FFFFFF" statuscolor="#000000" />
+    <toolbar_icon 
+        back="ViewPreviousImage.svg"
+        next="ViewNextImage.svg"
+        leftrotate="RotateLeft.svg"
+        rightrotate="RotateRight.svg"
+        zoomin="ZoomIn.svg"
+        zoomout="ZoomOut.svg"
+        zoomlock="LockRatio.svg"
+        autozoom="AutoZoom.svg"
+        zoomtofit="ScaleToFit.svg"
+        scaletofill="ScaleToFill.svg"
+        scaletofit="ActualSize.svg"
+        scaletowidth="ScaleToWidth.svg"
+        scaletoheight="ScaleToHeight.svg"
+        autosizewindow="AdjustWindowSize.svg"
+        open="OpenFile.svg"
+        refresh="Refresh.svg"
+        gotoimage="GoToImage.svg"
+        thumbnail="ThumbnailBar.svg"
+        checkerboard="Checkerboard.svg"
+        fullscreen="FullScreen.svg"
+        slideshow="Slideshow.svg"
+        convert="Convert.svg"
+        print="Print.svg"
+        menu="Menu.svg"
+		delete="delete.svg"
+        fliphorz="FlipHorz.svg" 
+        flipvert="FlipVert.svg"
+        gofirst="GoToFirst.svg"
+        golast="GoToLast.svg"
+        edit="Edit.svg"
+        crop="Crop.svg"
+        colorpicker="ColorPicker.svg"
+		/>
+  </Theme>
+</ImageGlass>
