@@ -7,7 +7,7 @@
       website="https://imageglass.org"
       description="An ImageGlass theme"
       type="ImageGlass Theme Configuration"
-      configversion="8.0"
+      configversion="8"
       preview="preview.jpg" />
       <main topbar="#F4EDE5"
       bottombar="#F4EDE5"
