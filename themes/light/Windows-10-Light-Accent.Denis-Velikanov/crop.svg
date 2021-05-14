@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        fill: #2b73b9;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" width="22" height="22"/>
+    <path class="b" d="M16.92822,15.75H20.5v1.19678H16.92822V20.5H15.75V16.94678H5.05322V6.25H1.5V5.07178H5.05322V1.5H6.25V5.07178h9.84326l3.38623-3.39551.84424.835L16.92822,5.90674Zm-2.02246-9.5H6.25v8.65576Zm-7.81152,9.5H15.75V7.09424Z"/>
+  </g>
+</svg>

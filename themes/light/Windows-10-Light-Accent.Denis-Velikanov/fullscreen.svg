@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        fill: #2b73b9;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" width="22" height="22"/>
+    <path class="b" d="M19.3125,2.6875V8.625H18.125V4.71924L4.71924,18.125H8.625v1.1875H2.6875V13.375H3.875v3.90576L17.28076,3.875H13.375V2.6875Z"/>
+  </g>
+</svg>

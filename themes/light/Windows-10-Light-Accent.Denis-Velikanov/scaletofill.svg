@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        fill: #2b73b9;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" width="22" height="22"/>
+    <g>
+      <path class="b" d="M3.875,6.25v9.5h14.25V6.25ZM5.0625,7.4375h11.875v7.125H5.0625Z"/>
+      <rect class="b" x="19.3125" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="16.9375" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="14.5625" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="12.1875" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="9.8125" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="7.4375" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="5.0625" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="2.6875" y="3.875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="1.5" y="5.0625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="1.5" y="7.4375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="1.5" y="9.8125" width="1.1875" height="1.1875"/>
+      <rect class="b" x="1.5" y="12.1875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="1.5" y="14.5625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="1.5" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="3.875" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="6.25" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="8.625" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="11" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="13.375" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="15.75" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="18.125" y="16.9375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="19.3125" y="15.75" width="1.1875" height="1.1875"/>
+      <rect class="b" x="19.3125" y="13.375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="19.3125" y="11" width="1.1875" height="1.1875"/>
+      <rect class="b" x="19.3125" y="8.625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="19.3125" y="6.25" width="1.1875" height="1.1875"/>
+    </g>
+  </g>
+</svg>

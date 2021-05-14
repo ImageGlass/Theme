@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+      }
+
+      .b {
+        fill: #2b73b9;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" width="22" height="22"/>
+    <g>
+      <path class="b" d="M1.5,3.875v14.25h19V3.875ZM2.6875,5.0625h16.625v11.875H2.6875Z"/>
+      <rect class="b" x="16.9375" y="6.25" width="1.1875" height="1.1875"/>
+      <rect class="b" x="14.5625" y="6.25" width="1.1875" height="1.1875"/>
+      <rect class="b" x="12.1875" y="6.25" width="1.1875" height="1.1875"/>
+      <rect class="b" x="9.8125" y="6.25" width="1.1875" height="1.1875"/>
+      <rect class="b" x="7.4375" y="6.25" width="1.1875" height="1.1875"/>
+      <rect class="b" x="5.0625" y="6.25" width="1.1875" height="1.1875"/>
+      <rect class="b" x="3.875" y="7.4375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="3.875" y="9.8125" width="1.1875" height="1.1875"/>
+      <rect class="b" x="3.875" y="12.1875" width="1.1875" height="1.1875"/>
+      <rect class="b" x="3.875" y="14.5625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="6.25" y="14.5625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="8.625" y="14.5625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="11" y="14.5625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="13.375" y="14.5625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="15.75" y="14.5625" width="1.1875" height="1.1875"/>
+      <rect class="b" x="16.9375" y="13.375" width="1.1875" height="1.1875"/>
+      <rect class="b" x="16.9375" y="11" width="1.1875" height="1.1875"/>
+      <rect class="b" x="16.9375" y="8.625" width="1.1875" height="1.1875"/>
+    </g>
+  </g>
+</svg>
