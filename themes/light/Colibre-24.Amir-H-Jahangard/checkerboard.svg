@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="colorpicker - Copy.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="20.506097"
+     inkscape:cx="23.348533"
+     inkscape:cy="13.500969"
+     inkscape:window-x="-5"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <g
+     id="g879"
+     transform="translate(1.7197446,-0.80834275)">
+    <path
+       id="path872"
+       style="fill:#ffffff;stroke:#3a3a38;stroke-width:0.999995;stroke-opacity:1"
+       d="M 0.7802557,3.3083415 H 19.780255 V 22.308344 H 0.7802557 Z" />
+    <path
+       id="path874"
+       style="fill:#3a3a38;fill-opacity:1;stroke:#3a3a38;stroke-width:0.999993;stroke-opacity:1"
+       d="m 10.78025,13.308339 h 9.000005 v 9.000005 H 10.78025 Z" />
+    <path
+       id="rect46"
+       style="fill:#3a3a38;fill-opacity:1;stroke:#3a3a38;stroke-width:0.999993;stroke-opacity:1"
+       d="m 0.7802557,3.3083415 h 9.000005 v 9.0000045 h -9.000005 z" />
+  </g>
+</svg>
