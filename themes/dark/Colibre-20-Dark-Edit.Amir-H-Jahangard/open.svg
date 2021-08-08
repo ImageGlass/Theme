@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FAFAFA;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#ED8733;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#F8DB8F;}
+	.st3{fill:#FAFAFA;}
+	.st4{fill:#3A3A38;}
+	.st5{fill:#ED8733;}
+	.st6{fill:#F8DB8F;}
+	.st7{fill:#83BEEF;}
+	.st8{fill:#0063B1;}
+</style>
+<g transform="translate(0 -1)">
+	<path class="st0" d="M5,4l4,2h5v8H3V4H5z"/>
+	<path class="st1" d="M2,16h1h12l2.7-7C18,8,18,8,17,8h-1h-1H6C5,8,5,8,4.7,9L3,13.7L2,16z"/>
+	<path class="st1" d="M5,3c0.3,0,0.5,0.1,0.7,0.3L9.4,5H14c0.6,0,1,0.4,1,1v7h-1v-0.3V7V6H9L5,4H3v12H2V4c0-0.6,0.4-1,1-1H5z"/>
+	<path class="st2" d="M6,9C5.9,9,5.9,9,5.8,9c0,0.1,0,0.1-0.1,0.2c0,0,0,0.1,0,0.1L3.9,14c0,0,0,0,0,0L3.5,15h10.8l2.3-6H16h-1H6z"
+		/>
+</g>
+<g transform="matrix(.84615385 0 0 .84615385 2.461539 2.461539)">
+	<path class="st3" d="M6.5,6.5h10.6v10.6H6.5V6.5z"/>
+	<path class="st4" d="M5.4,5.4v13h13v-13H5.4z M6.5,6.5h10.6l0,10.6H6.5V6.5z"/>
+	<path class="st5" d="M11.3,9.5c0,1-0.8,1.8-1.8,1.8c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8C10.5,7.7,11.3,8.5,11.3,9.5z"/>
+	<path class="st6" d="M10.1,9.5c0,0.3-0.3,0.6-0.6,0.6S8.9,9.8,8.9,9.5s0.3-0.6,0.6-0.6S10.1,9.2,10.1,9.5z"/>
+	<path class="st7" d="M14.2,11.7l-3.5,3.9l-1.2-1.2l-2.7,2.7h10.4v-2.4L14.2,11.7z"/>
+	<path class="st8" d="M14.2,10.1L10.7,14l-1.2-1.2l-3,3v1.4h0.3l2.7-2.7l1.2,1.2l3.5-3.9l3,3.1v-1.6L14.2,10.1z"/>
+</g>
+</svg>
