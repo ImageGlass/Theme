@@ -1,0 +1,32 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="0.49998" y1="0.00005" x2="0.49998" y2="1">
+   <stop offset="0" stop-color="#2AF598"/>
+   <stop offset="1" stop-color="#009EFD"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.51955" y1="0" x1="0.52345" id="svg_19">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#17e897"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#00c7ff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <polygon stroke="null" points="293.1280212402344,37.1280517578125 265.025634765625,65.23040771484375 435.9223937988281,236.12815856933594 2.999969959259033,236.12815856933594 2.999969959259033,275.8719177246094 435.9223937988281,275.8719177246094 265.025634765625,446.76971435546875 293.1280212402344,474.8719482421875 512,256.0000915527344 " fill="url(#SVGID_1_)" id="svg_1"/>
+  <g id="svg_2"/>
+  <g id="svg_3"/>
+  <g id="svg_4"/>
+  <g id="svg_5"/>
+  <g id="svg_6"/>
+  <g id="svg_7"/>
+  <g id="svg_8"/>
+  <g id="svg_9"/>
+  <g id="svg_10"/>
+  <g id="svg_11"/>
+  <g id="svg_12"/>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <rect id="svg_17" height="432" width="40" y="40" x="0" fill="url(#svg_19)"/>
+ </g>
+</svg>

@@ -1,0 +1,49 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+ <defs>
+  <linearGradient y2="1" x2="0.51955" y1="0" x1="0.52345" id="svg_19">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#17e897"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#00c7ff"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.9994000196456909,0,0,-0.9994000196456909,-0.02720000222325325,513.638011932373)" y2="37.4969" x2="256.1692" y1="478.0649" x1="256.1692" gradientUnits="userSpaceOnUse" id="svg_22">
+   <stop stop-color="#2AF598" offset="0"/>
+   <stop stop-color="#009EFD" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g>
+   <polygon fill="url(#svg_22)" points="512,236.01101303100586 76.5260009765625,236.01101303100586 248.42999267578125,64.10601425170898 220.16200256347656,35.8380126953125 0,256.0000114440918 220.16200256347656,476.1619987487793 248.42999267578125,447.8940238952637 76.5260009765625,275.9890251159668 512,275.9890251159668 "/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+   <g/>
+  </g>
+  <g id="svg_2"/>
+  <g id="svg_3"/>
+  <g id="svg_4"/>
+  <g id="svg_5"/>
+  <g id="svg_6"/>
+  <g id="svg_7"/>
+  <g id="svg_8"/>
+  <g id="svg_9"/>
+  <g id="svg_10"/>
+  <g id="svg_11"/>
+  <g id="svg_12"/>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <rect id="svg_17" height="432" width="40" y="40" x="472" fill="url(#svg_19)"/>
+ </g>
+</svg>
