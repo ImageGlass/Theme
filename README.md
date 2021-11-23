@@ -15,16 +15,39 @@ This instruction is always for the latest version of ImageGlass. If you are usin
 https://github.com/ImageGlass/theme/releases
 
 
+## 🪐 Naming convention
+Please follow this naming convention for your theme folder and theme pack:
+### Theme folder (`THEME_FOLDER`)
+```xml
+<theme_name>.<author>
+```
+
+While:
+- `theme_name`: The name of the theme, no space, separated by comma `,`.
+- `author`: The author of the theme, no space, separated by comma `,`.
+
+For example: `Kobe.Duong-Dieu-Phap`, `2017-Light-Gray.Duong-Dieu-Phap`.
+
+
+### Theme pack
+Similar to "Theme folder" but with the extension:
+```xml
+<theme_name>.<author>.igtheme
+```
+
+For example: `Kobe.Duong-Dieu-Phap.igtheme`, `2017-Light-Gray.Duong-Dieu-Phap.igtheme`.
+
+
 ## 📂 Theme pack folder structure
-A theme pack contains:
+A theme pack folder contains:
 - 1 `igtheme.xml` file
 - 1 preview image file
 - And SVG icon files
 
-All of these files should be placed in a folder.
+All of these files should be placed in a folder:
 
 ```
-THEME_NAME
+THEME_FOLDER
 |-- igtheme.xml
 |-- preview image file
 |-- SVG icon files...
