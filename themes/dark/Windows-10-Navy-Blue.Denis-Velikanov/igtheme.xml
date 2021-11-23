@@ -2,7 +2,7 @@
     <Theme>
         <Info
             name="Windows 10 Navy blue"
-            version="3.5"
+            version="3.7"
             author="Denis Velikanov"
             email="In-bono-veritas@yandex.ru"
             website="www.deviantart.com/dehncka"
@@ -12,12 +12,12 @@
             preview="preview.png"
         />
         <main
-            accentcolor="#0078D7"
-            accentdarkcolor="#005A9E"
-            accentlightcolor="#429CE3"
+            accentcolor="#16619E"
+            accentdarkcolor="#16619E"
+            accentlightcolor="#0B6CBA"
             backcolor="#21252B"
             bottombar="example.svg.png"
-            bottombarcolor="#21252B"
+            bottombarcolor="#373E48"
             isshowtitlebarlogo="true"
             logo="logo_navyblue.svg"
             menubackgroundcolor="#373E48"

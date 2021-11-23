@@ -2,7 +2,7 @@
     <Theme>
         <Info
             name="Windows 10 Light - Accent"
-            version="3.5"
+            version="3.7"
             author="Denis Velikanov"
             email="In-bono-veritas@yandex.ru"
             website="www.deviantart.com/dehncka"
@@ -12,12 +12,12 @@
             preview="preview.png"
         />
         <main
-            accentcolor="#0078D7"
-            accentdarkcolor="#005A9E"
-            accentlightcolor="#429CE3"
-            backcolor="#EAEAEA"
+            accentcolor="#B8B8B8"
+            accentdarkcolor="#B8B8B8"
+            accentlightcolor="#CFCFCF"
+            backcolor="#E6E6E6"
             bottombar="example.svg.png"
-            bottombarcolor="#EAEAEA"
+            bottombarcolor="#E6E6E6"
             isshowtitlebarlogo="true"
             logo="logo_light.svg"
             menubackgroundcolor="#E6E6E6"
@@ -26,7 +26,7 @@
             menutexthovercolor="#000000"
             statuscolor="#000000"
             topbar="example.svg.png"
-            topbarcolor="#EAEAEA"
+            topbarcolor="#E6E6E6"
         />
         <toolbar_icon
             autosizewindow="autosizewindow.svg"

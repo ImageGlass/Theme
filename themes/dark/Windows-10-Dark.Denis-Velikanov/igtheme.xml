@@ -2,7 +2,7 @@
     <Theme>
         <Info
             name="Windows 10 Dark"
-            version="3.5"
+            version="3.7"
             author="Denis Velikanov"
             email="In-bono-veritas@yandex.ru"
             website="www.deviantart.com/dehncka"
@@ -12,9 +12,9 @@
             preview="preview.png"
         />
         <main
-            accentcolor="#0078D7"
-            accentdarkcolor="#005A9E"
-            accentlightcolor="#429CE3"
+            accentcolor="#0C548D"
+            accentdarkcolor="#0C548D"
+            accentlightcolor="#0666B2"
             backcolor="#1F1F1F"
             bottombar="example.svg.png"
             bottombarcolor="#1F1F1F"
