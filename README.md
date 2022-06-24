@@ -23,8 +23,8 @@ Please follow this naming convention for your theme folder and theme pack:
 ```
 
 While:
-- `theme_name`: The name of the theme, no space, separated by comma `,`.
-- `author`: The author of the theme, no space, separated by comma `,`.
+- `theme_name`: The name of the theme, no space, separated by hyphen `-`.
+- `author`: The author of the theme, no space, separated by hyphen `-`.
 
 For example: `Kobe.Duong-Dieu-Phap`, `2017-Light-Gray.Duong-Dieu-Phap`.
 
@@ -198,34 +198,21 @@ ImageGlass is free and open source but developing it has taken thousands of hour
 
 Thanks for your gratitude and finance help!
 
-<a href="https://donorbox.org/imageglass" target="_blank" title="Wire transfer">
-<img src="https://img.shields.io/badge/DonorBox-@imageglass%20-005384.svg?maxAge=3600" height="30" alt="Wire transfer">
+<a href="https://github.com/sponsors/d2phap" target="_blank" title="Become a sponsor">
+<img src="https://img.shields.io/badge/Github-@d2phap-24292e.svg?maxAge=3600" height="30" alt="Become a sponsor">
 </a>
 
 <a href="https://www.patreon.com/d2phap" target="_blank" title="Become a patron">
 <img src="https://img.shields.io/badge/Patreon-@d2phap%20-e85b46.svg?maxAge=3600" height="30" alt="Become a patron">
 </a>
 
+<a href="https://donorbox.org/imageglass" target="_blank" title="Wire transfer">
+<img src="https://img.shields.io/badge/DonorBox-@imageglass%20-005384.svg?maxAge=3600" height="30" alt="Wire transfer">
+</a>
+
 <a href="https://www.paypal.me/d2phap" target="_blank" title="Buy me a beer?">
 <img src="https://img.shields.io/badge/PayPal-Donate%20$10%20-0070ba.svg?maxAge=3600" height="30" alt="Buy me a beer?">
 </a>
-
-<a href="https://github.com/sponsors/d2phap" target="_blank" title="Become a sponsor">
-<img src="https://img.shields.io/badge/Github-@d2phap-24292e.svg?maxAge=3600" height="30" alt="Become a sponsor">
-</a>
-
-
-### Cryptocurrency donation:
-
-```bash
-# Ethereum
-0xc19be8972809b6b989f3e4ba16595712ba8e0de4
-
-# Bitcoin
-1PcCezBmM3ahTzfBBi5KVWnnd3bCHbas8Z
-```
-
-
 
 
 ### ❤
