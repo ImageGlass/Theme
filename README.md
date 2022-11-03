@@ -83,7 +83,7 @@ author | `author="Duong Dieu Phap"` | The author name who creates this theme pac
 email | `email="phap@imageglass.org"` | The contact email of the author (optional).
 website | `website="https://imageglass.org"` | The website of the author (optional).
 preview | `preview="preview.jpg"` | The preview image which people will have a glance on it.
-configversion 🆕 | `configversion="8"` | 🚫 Version of configuration file (don't change it).
+configversion | `configversion="8"` | 🚫 Version of configuration file (don't change it).
 type | `type="ImageGlass Theme Configuration"` | 🚫 Just a constant (don't change it).
 
 Full example:
@@ -109,16 +109,17 @@ bottombarcolor | `bottombarcolor="#3a3c3d"` | The color of thumbnail bar.
 backcolor | `backcolor="#3a3c3d"` | The color of viewer area.
 statuscolor | `statuscolor="#f0f0f0"` | The color of text, used in tool forms: Color picker, Page navigation, ...
 menubackgroundcolor | `menubackgroundcolor="#484b4c"` | The background color of menu item.
-menubackgroundhovercolor 🆕 | `menubackgroundhovercolor="#686868"` | The background color of menu item on hover.
+menubackgroundhovercolor | `menubackgroundhovercolor="#686868"` | The background color of menu item on hover.
 menutextcolor | `menutextcolor="#f0f0f0"` | The text color of menu item.
-menutexthovercolor 🆕 | `menutexthovercolor="#f0f0f0"` | The text color of menu item on hover.
+menutexthovercolor | `menutexthovercolor="#f0f0f0"` | The text color of menu item on hover.
 topbar | `topbar="toolbar_bg.png"` | The background image file of the toolbar. This overrides the `topbarcolor` value. Invalid file ignored.
 bottombar | `bottombar="thumb_bg.png"` | The background image file of the thumbnail. This overrides the `bottombarcolor` value. Invalid file ignored.
-accentcolor 🆕 | `accentcolor="#f00"` | The accent color.
-accentlightcolor 🆕 | `accentlightcolor="#f00"` | The accent light color.
-accentdarkcolor 🆕 | `accentdarkcolor="#f00"` | The accent dark color.
-logo 🆕 | `logo="logo.svg"` | The logo of ImageGlass, will display on title bar, About page, First-launch configuration page. Minimium size is 128px.
-isshowtitlebarlogo 🆕 | `isshowtitlebarlogo="True"` | Controls visibility of logo on title bar.
+accentcolor | `accentcolor="#f00"` | The accent color.
+accentlightcolor | `accentlightcolor="#f00"` | The accent light color.
+accentdarkcolor | `accentdarkcolor="#f00"` | The accent dark color.
+logo | `logo="logo.svg"` | The logo of ImageGlass, will display on title bar, About page, First-launch configuration page. Minimium size is 128px.
+isshowtitlebarlogo | `isshowtitlebarlogo="True"` | Controls visibility of logo on title bar.
+isdarkmode 🆕 | `isdarkmode="True"` | The theme pack color mode. This will change the title bar color to dark or light color in Windows 10+.
 
 
 Full example:
