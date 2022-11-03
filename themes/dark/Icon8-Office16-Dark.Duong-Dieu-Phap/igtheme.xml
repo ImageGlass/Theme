@@ -12,6 +12,7 @@
       menubackgroundhovercolor="#202020"
       menutextcolor="#e0e0e0"
       menutexthovercolor="#ffffff"
+      isdarkmode="true"
       />
     <toolbar_icon
       back="back.svg"

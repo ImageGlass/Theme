@@ -27,6 +27,7 @@
             statuscolor="#000000"
             topbar="example.svg.png"
             topbarcolor="#E6E6E6"
+            isdarkmode="false"
         />
         <toolbar_icon
             autosizewindow="autosizewindow.svg"

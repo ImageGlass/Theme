@@ -1,6 +1,6 @@
 <ImageGlass>
   <Theme>
-    <Info name="2017 (Light Gray)" version="8.3" author="Dương Diệu Pháp" email="phap@imageglass.org" website="https://imageglass.org" description="Modern ImageGlass theme (Light Gray)" type="ImageGlass Theme Configuration" configversion="8" preview="preview.jpg" />
+    <Info name="2017 (Light Gray)" version="8.7" author="Dương Diệu Pháp" email="phap@imageglass.org" website="https://imageglass.org" description="Modern ImageGlass theme (Light Gray)" type="ImageGlass Theme Configuration" configversion="8" preview="preview.jpg" />
     <main
       topbar="x"
       topbarcolor="#F2F3F7"
@@ -8,15 +8,16 @@
       bottombarcolor="#F2F3F7"
       backcolor="#fff"
       statuscolor="#000"
-      menubackgroundcolor="#fff"
-      menubackgroundhovercolor="#DFE2EC"
+      menubackgroundcolor="#F2F3F7"
+      menubackgroundhovercolor="#D9DCE6"
       menutextcolor="#000"
       menutexthovercolor="#000"
-      accentcolor="#D3D7E4"
-      accentlightcolor="#DFE2EC"
-      accentdarkcolor="#BEC4D8"
+      accentcolor="#C4C8D4"
+      accentlightcolor="#D9DCE6"
+      accentdarkcolor="#AAB0C2"
       logo="logo.svg"
-      isshowtitlebarlogo="true" />
+      isshowtitlebarlogo="true"
+      isdarkmode="false" />
     <toolbar_icon 
       back="ViewPreviousImage.svg"
       next="ViewNextImage.svg"

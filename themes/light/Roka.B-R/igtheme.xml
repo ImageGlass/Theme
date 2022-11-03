@@ -21,7 +21,8 @@
       accentcolor="#F4EDE5" 
       accentlightcolor="#F4EDE5"
       accentdarkcolor="#F4EDE5"
-      logo="image.svg"/>
+      logo="image.svg"
+      isdarkmode="false" />
       <toolbar_icon colorpicker="ColorPicker.svg" crop="Crop.svg" edit="Edit.svg" golast="GoToLast.svg" gofirst="GoToFirst.svg" flipvert="FlipVert.svg" fliphorz="FlipHorz.svg" delete="delete.svg" menu="Menu.svg" print="Print.svg" convert="Convert.svg" slideshow="Slideshow.svg" fullscreen="FullScreen.svg" checkerboard="Checkerboard.svg" thumbnail="ThumbnailBar.svg" gotoimage="GoToImage.svg" refresh="Refresh.svg" open="OpenFile.svg" autosizewindow="AdjustWindowSize.svg" scaletoheight="ScaleToHeight.svg" scaletowidth="ScaleToWidth.svg" scaletofit="ActualSize.svg" scaletofill="ScaleToFill.svg" zoomtofit="ScaleToFit.svg" autozoom="AutoZoom.svg" zoomlock="LockRatio.svg" zoomout="ZoomOut.svg" zoomin="ZoomIn.svg" rightrotate="RotateRight.svg" leftrotate="RotateLeft.svg" next="ViewNextImage.svg" back="ViewPreviousImage.svg"/>
   </Theme>
 </ImageGlass>
