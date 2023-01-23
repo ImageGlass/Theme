@@ -5,7 +5,7 @@
 #### Contributor: H-one Design
 
 #### Enquiries and discussion:
-https://github.com/ImageGlass/theme/issues/***Insert Place Here***
+https://github.com/ImageGlass/theme/issues
 
 ## How to Install
 - Support for ImageGlass 4.5 or later.
