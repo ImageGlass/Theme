@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Exported by Character Map UWP -->
+
+<svg
+   height="100%"
+   viewBox="154 246 717 717"
+   width="100%"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="FluentSystemIcons-Resizable Regular - ic fluent puzzle cube 20 filled.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs8" /><sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.50641469"
+     inkscape:cx="373.21192"
+     inkscape:cy="405.79392"
+     inkscape:window-width="1550"
+     inkscape:window-height="1243"
+     inkscape:window-x="449"
+     inkscape:window-y="96"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" /><path
+     d="m 665.6,962.56 h 77.824 c 34.133,0 63.829,-12.629 89.088,-37.888 25.259,-25.259 37.888,-54.955 37.888,-89.088 V 757.76 H 665.6 Z m -51.2,-256 H 409.6 v -204.8 h 204.8 z m -460.8,51.2 h 204.8 v 204.8 h -75.776 c -35.499,0 -65.877,-12.629 -91.136,-37.888 C 166.229,899.413 153.6,869.717 153.6,835.584 Z m 512,-307.2 h 204.8 v -77.824 c 0,-34.133 -12.629,-63.829 -37.888,-89.088 C 807.253,258.389 776.875,245.76 741.376,245.76 H 665.6 Z M 154,450.8 H 358.8 V 246 h -75.776 c -35.499,0 -65.877,12.629 -91.136,37.888 C 166.629,309.147 154,338.843 154,372.976 Z"
+     fill="#ffffff"
+     fill-opacity="1"
+     id="path2"
+     sodipodi:nodetypes="cssscccccccccccssscccssscc"
+     style="fill:#e0dfdf;fill-opacity:1" /><path
+     d="m 665.6,706.56 v -204.8 h 204.8 v 204.8 z m -256,51.2 h 204.8 v 204.8 H 409.6 Z m -51.2,-51.2 V 501.76 H 153.6 v 204.8 z m 256,-460.8 v 204.8 H 409.6 v -204.8 z"
+     style="fill:#4cc2ff;fill-opacity:1"
+     id="path946" /></svg>
