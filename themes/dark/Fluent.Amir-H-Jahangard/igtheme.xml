@@ -16,6 +16,7 @@
       accentlightcolor="#2D2D2D"
       accentdarkcolor="#292929"
       logo="logo.svg"
+      isdarkmode="true"
       isshowtitlebarlogo="true" />
     <toolbar_icon 
         back="ViewPreviousImage.svg"
