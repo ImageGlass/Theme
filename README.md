@@ -1,4 +1,4 @@
-🎏 ImageGlass theme packs
+🎏 ImageGlass theme and icon packs
 ==
 Everything about [ImageGlass](https://imageglass.org) theme!
 
@@ -78,7 +78,7 @@ The structure of `igtheme.json` file is in JSON format, we will go deeper to the
 }
 ```
 
-💡 For full example of `igconfig.json` file, please refer to [themes/dark/2017-Ocean.Duong-Dieu-Phap/igtheme.json](https://github.com/ImageGlass/Theme/blob/main/themes/dark/2017-Ocean.Duong-Dieu-Phap/igtheme.json)
+💡 For full example of `igtheme.json` file, please refer to [themes/dark/2017-Ocean.Duong-Dieu-Phap/igtheme.json](https://github.com/ImageGlass/Theme/blob/main/themes/dark/2017-Ocean.Duong-Dieu-Phap/igtheme.json)
 
 #### 🟢 Step 2.1 Section `_Metadata`
 Provides the metadata of ImageGlass theme pack. You should not change this section.
