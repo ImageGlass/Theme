@@ -1,29 +1,26 @@
 🎏 ImageGlass theme packs
 ==
-The up-to-date theme packs for [ImageGlass](https://imageglass.org/)
-
-[![Website](https://img.shields.io/badge/www-imageglass.org-0099BC.svg?maxAge=3600)](https://imageglass.org)
-[![GPL Licence](https://img.shields.io/badge/license-MIT-green.svg?maxAge=3600)](https://github.com/ImageGlass/theme/blob/master/LICENSE)
+Everything about [ImageGlass](https://imageglass.org) theme!
 
 
 [![Total Downloads](https://img.shields.io/github/downloads/ImageGlass/theme/total?color=%233097B8&label=downloads&style=for-the-badge)](https://imageglass.org/themes)
 
 
-## ⌚ Change history
-This instruction is always for the latest version of ImageGlass. If you are using the older versions, please see the changes (if any) at:
+## ⌚ Change history (Version 9)
+This instruction is always for the latest version of ImageGlass, for the older versions, please see the changes (if any) at: https://github.com/ImageGlass/theme/releases
 
-https://github.com/ImageGlass/theme/releases
+If you want to create theme for ImageGlass v8, please refer to [Create-theme-for-v8.md](./Create-theme-for-v8.md).
 
 
 ## 🪐 Naming convention
 Please follow this naming convention for your theme folder and theme pack:
 ### Theme folder (`THEME_FOLDER`)
 ```xml
-<theme_name>.<author>
+<theme-name>.<author>
 ```
 
 While:
-- `theme_name`: The name of the theme, no space, separated by hyphen `-`.
+- `theme-name`: The name of the theme, no space, separated by hyphen `-`.
 - `author`: The author of the theme, no space, separated by hyphen `-`.
 
 For example: `Kobe.Duong-Dieu-Phap`, `2017-Light-Gray.Duong-Dieu-Phap`.
@@ -32,7 +29,7 @@ For example: `Kobe.Duong-Dieu-Phap`, `2017-Light-Gray.Duong-Dieu-Phap`.
 ### Theme pack
 Similar to "Theme folder" but with the extension:
 ```xml
-<theme_name>.<author>.igtheme
+<theme-name>.<author>.igtheme
 ```
 
 For example: `Kobe.Duong-Dieu-Phap.igtheme`, `2017-Light-Gray.Duong-Dieu-Phap.igtheme`.
@@ -40,7 +37,7 @@ For example: `Kobe.Duong-Dieu-Phap.igtheme`, `2017-Light-Gray.Duong-Dieu-Phap.ig
 
 ## 📂 Theme pack folder structure
 A theme pack folder contains:
-- 1 `igtheme.xml` file
+- 1 `igtheme.json` file
 - 1 preview image file
 - And SVG icon files
 
@@ -48,156 +45,166 @@ All of these files should be placed in a folder:
 
 ```
 THEME_FOLDER
-|-- igtheme.xml
+|-- igtheme.json
 |-- preview image file
 |-- SVG icon files...
 ```
 
-## 🎨 How to create a new theme pack?
-### 1. Create theme pack folder structure
-### 2. Create `igtheme.xml` file
+## 🎨 How to create a new theme for ImageGlass 9?
+If you look for v8 specs, please refer to [Create-theme-for-v8.md](./Create-theme-for-v8.md).
+
+### 🔵 Step 1. Create theme pack folder structure
+### 🔵 Step 2. Create `igtheme.json` file
 This is the most important file of the theme, it provides all the SVG icon files to ImageGlass app and other information of your theme.
-You can see full `igtheme.xml` example at https://github.com/ImageGlass/theme/blob/master/themes/dark/2017_dark/igtheme.xml
-
-There are 3 sections in `<Theme>` element:
-
-```xml
-<ImageGlass>
-  <Theme>
-    <Info />
-    <main />
-    <toolbar_icon />
-  </Theme>
-</ImageGlass>
+The structure of `igtheme.json` file is in JSON format, we will go deeper to the detail of each section.
+```ts
+{
+  "_Metadata": { // see step 2.1
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    ... // see step 2.2
+  },
+  "Settings": {
+    ... // see step 2.3
+  },
+  "Colors": {
+    ... // see step 2.4
+  },
+  "ToolbarIcons": {
+    ... // see step 2.5
+  }
+}
 ```
 
-#### 2.1 `<Info />` element
-Provides general information of your theme packs, all options are:
+#### 🟢 Step 2.1 Section `_Metadata`
+Provides the metadata of ImageGlass theme pack. You should not change this section.
 
-Key | Example | Description
+Key name | Value | Description
 -- | -- | --
-name | `Kobe"` | Name of your theme which people will see it in ImageGlass theme list.
-description | `description="Modern ImageGlass theme (Dark)"` | A short description of your theme.
-version | `version="1.0"` | The version number of your theme.
-author | `author="Duong Dieu Phap"` | The author name who creates this theme pack (optional).
-email | `email="phap@imageglass.org"` | The contact email of the author (optional).
-website | `website="https://imageglass.org"` | The website of the author (optional).
-preview | `preview="preview.jpg"` | The preview image which people will have a glance on it.
-configversion | `configversion="8"` | 🚫 Version of configuration file (don't change it).
-type | `type="ImageGlass Theme Configuration"` | 🚫 Just a constant (don't change it).
+`Version` | `"9.0"` | 🚫 Version of configuration file (don't change it).
+`Description` | `"ImageGlass theme configuration file"` | 🚫 Just a constant (don't change it).
 
-Full example:
-```xml
-<Info name="Kobe"
-    version="8.0"
-    author="Duong Dieu Phap"
-    email="phap@imageglass.org"
-    website="https://imageglass.org"
-    description="Modern ImageGlass theme"
-    type="ImageGlass Theme Configuration"
-    configversion="8.0"
-    preview="preview.jpg" />
-```
 
-#### 2.2 `<main />` element
-Provides color scheme of ImageGlass. It should be either decimal color code or HEX code (no alpha value). All options are:
 
-Key | Example | Description
+#### 🟢 Step 2.2 Section `Info`
+Provides basic information of your theme packs.
+
+Key name | Example value | Description
 -- | -- | --
-topbarcolor | `topbarcolor="#3a3c3d"` | The color of toolbar.
-bottombarcolor | `bottombarcolor="#3a3c3d"` | The color of thumbnail bar.
-backcolor | `backcolor="#3a3c3d"` | The color of viewer area.
-statuscolor | `statuscolor="#f0f0f0"` | The color of text, used in tool forms: Color picker, Page navigation, ...
-menubackgroundcolor | `menubackgroundcolor="#484b4c"` | The background color of menu item.
-menubackgroundhovercolor | `menubackgroundhovercolor="#686868"` | The background color of menu item on hover.
-menutextcolor | `menutextcolor="#f0f0f0"` | The text color of menu item.
-menutexthovercolor | `menutexthovercolor="#f0f0f0"` | The text color of menu item on hover.
-topbar | `topbar="toolbar_bg.png"` | The background image file of the toolbar. This overrides the `topbarcolor` value. Invalid file ignored.
-bottombar | `bottombar="thumb_bg.png"` | The background image file of the thumbnail. This overrides the `bottombarcolor` value. Invalid file ignored.
-accentcolor | `accentcolor="#f00"` | The accent color.
-accentlightcolor | `accentlightcolor="#f00"` | The accent light color.
-accentdarkcolor | `accentdarkcolor="#f00"` | The accent dark color.
-logo | `logo="logo.svg"` | The logo of ImageGlass, will display on title bar, About page, First-launch configuration page. Minimium size is 128px.
-isshowtitlebarlogo | `isshowtitlebarlogo="True"` | Controls visibility of logo on title bar.
-isdarkmode 🆕 | `isdarkmode="True"` | The theme pack color mode. This will change the title bar color to dark or light color in Windows 10+.
+`Name` | `"Moon light"` | Name of your theme which people will see it in ImageGlass theme list
+`Version` | `"1.0"` | The version number of your theme
+`Description` | `"A Moon light dark theme for ImageGlass"` | A short description of your theme
+`Author` | `"James Black"` | The author who creates this theme pack (optional)
+`Email` | `"james.black@gmail.com"` | The contact email of the author (optional)
+`Website` | `"https://example.com"` | The website of the author (optional)
 
 
-Full example:
-```xml
-<main topbar=""
-    bottombar=""
-    topbarcolor="#3a3c3d"
-    bottombarcolor="#3a3c3d"
-    backcolor="#3a3c3d"
-    statuscolor="#f0f0f0"
-    menubackgroundcolor="#484b4c"
-    menutextcolor="#f0f0f0" />
-```
 
-#### 2.3 `<toolbar_icon />` element
-Provides icons for toolbar. It's recommended to use SVG file format for better scaling on high DPI screens.
-All options are:
+#### 🟢 Step 2.3 Section `Settings`
+Provides general settings of your theme pack
 
-Key | Example | Description
+Key name | Example value | Description
 -- | -- | --
-back | `back="ViewPreviousImage.svg"` | The Back navigation button.
-next | `next="ViewNextImage.svg"` | The Next navigation button.
-gofirst | `gofirst="GoToFirst.svg"` | The Go to first image button.
-golast | `golast="GoToLast.svg"` | The Go to last image button.
- |  | 
-leftrotate | `leftrotate="RotateLeft.svg"` | The Rotate left button.
-rightrotate | `rightrotate="RotateRight.svg"` | The Rotate right button.
-fliphorz | `fliphorz="FlipHorz.svg" ` | The Flip horizontal button.
-flipvert | `flipvert="FlipVert.svg"` | The Flip vertical button.
-crop | `crop="Crop.svg"` | The Cropping tool button.
-colorpicker | `colorpicker="ColorPicker.svg"` | The Color picker tool button.
- |  | 
-zoomin | `zoomin="ZoomIn.svg"` | The Zoom in button.
-zoomout | `zoomout="ZoomOut.svg"` | The Zoom out button.
- |  | 
-autozoom | `autozoom="AutoZoom.svg"` | The Auto zoom button.
-zoomlock | `zoomlock="LockRatio.svg"` | The Lock zoom ratio button.
-scaletowidth | `scaletowidth="ScaleToWidth.svg"` | The Scale to width button.
-scaletoheight | `scaletoheight="ScaleToHeight.svg"` | The Scale to height button.
-zoomtofit | `zoomtofit="ScaleToFit.svg"` | The Scale to fit button.
-scaletofill | `scaletofill="ScaleToFill.svg"` | The Scale to fill button.
-scaletofit | `scaletofit="ActualSize.svg"` | The Actual size button.
- |  | 
-open | `open="OpenFile.svg"` | The Open file button.
-refresh | `refresh="Refresh.svg"` | The Refest button.
-gotoimage | `gotoimage="GoToImage.svg"` | The Go to button.
- |  | 
-autosizewindow | `autosizewindow="AdjustWindowSize.svg"` | The Window fit button.
-fullscreen | `fullscreen="FullScreen.svg"` | The FullScreen button.
-slideshow | `slideshow="Slideshow.svg"` | The Slideshow button.
- |  | 
-checkerboard | `checkerboard="Checkerboard.svg"` | The Checkerboard button.
-thumbnail | `thumbnail="ThumbnailBar.svg"` | The Thumbnail bar button.
-delete | `delete="delete.svg"` | The Move to recycle bin button.
-print | `print="Print.svg"` | The Print button.
-edit | `edit="Edit.svg"` | The Edit button.
-convert | `convert="Convert.svg"` | The Save image as button.
- |  | 
-menu | `menu="Menu.svg"` | The main menu button.
+`IsDarkMode` | `true` | Theme pack color mode, default value is `true`
+`NavButtonLeft` | `"ViewPreviousImage.svg"` | The left arrow navigation button SVG icon
+`NavButtonRight` | `"ViewNextImage.svg"` | The right arrow navigation button SVG icon
+`AppLogo` | `"logo.svg"` | The logo of ImageGlass, will display on title bar of all windows
+`PreviewImage` | `"preview.webp"` | The preview image of the theme pack. Recommended formats: WebP, JPG.
 
 
-### 3. Add icons and image files
-### 4. Add preview image file for your theme (step 2.1)
-### 5. Pack your theme
-- Zip the whole theme folder as `.zip`.
-- Change the `.zip` extension to `.igtheme`.
 
-### 6. Share your theme
+#### 🟢 Step 2.4 Section `Colors`
+Provides color scheme of ImageGlass. All colors must be in HEX code (web format), including alpha. Example: `#fff`, `#fffa`, `ffffff`, `ffffffaa`,...
+
+💡 ImageGlass also supports using the system accent color for your theme pack:
+- Instead of `"#fff"`, you can use `"accent"`
+- You can change the alpha value of the accent color by using this syntax: `<accent>:<alpha>`. The `alpha` value must be in range from `0` to `255`. Example: `"accent:70"`.
+
+Key name | Example value | Description
+-- | -- | --
+`BgColor` | `"#151b1f00"` | Background color of the viewer
+`TextColor` | `"#d3d3d3"` | Text color of the viewer
+`ToolbarBgColor` | `"#1E242900"` | Background color of toolbar
+`ToolbarTextColor` | `"#dedede"` | Text color of toolbar button
+`ToolbarItemHoverColor` | `"#ffffff33"` | Background color of toolbar button when it's hovered
+`ToolbarItemActiveColor` | `"#ffffff22"` | Background color of toolbar button when it's pressed
+`ToolbarItemSelectedColor` | `"#ffffff44"` | Background color of toolbar button when it's selected
+`GalleryBgColor` | `"#1E242900"` | Background color of gallery
+`GalleryTextColor` | `"#dedede"` | Text color of gallery
+`GalleryItemHoverColor` | `"#ffffff33"` | Background color of thumbnail when it's hovered
+`GalleryItemActiveColor` | `"#ffffff22"` | Background color of thumbnail when it's pressed
+`GalleryItemSelectedColor` | `"#ffffff44"` | Background color of thumbnail when it's selected
+`MenuBgColor` | `"#1E2429"` | Background color of menu
+`MenuBgHoverColor` | `"#ffffff15"` | Background color of menu item when it's hovered
+`MenuTextColor` | `"#dedede"` | Text color of menu item
+`MenuTextHoverColor` | `"#dedede"` | Text color of menu item when it's hovered
+`NavigationButtonColor` | `"ff000015"` | Background color of the navigation arrow buttons
+
+
+
+#### 🟢 Step 2.5 Section `ToolbarIcons`
+Provides icons for toolbar. All icon files must be in SVG format for better scaling on high DPI screens.
+
+Key name | Example value | Description
+-- | -- | --
+`ActualSize` | `"ActualSize.svg"` | The "Actual size" button
+`AutoZoom` | `"AutoZoom.svg"` | The "Auto zoom" button
+`Checkerboard` | `"Checkerboard.svg"` | The "Checkerboard" button
+`ColorPicker` | `"ColorPicker.svg"` | The "Color picker" button
+`Crop` | `"Crop.svg"` | The "Crop image" button
+`Delete` | `"Delete.svg"` | The "Move to the Recycle Bin" button
+`Edit` | `"Edit.svg"` | The "Edit" button
+`Exit` | `"Exit.svg"` | The "Exit" button
+`Export` | `"Export.svg"` | The "Export" button when the "Page navigation" tool is open
+`FlipHorz` | `"FlipHorz.svg"` | The "Flip horizontal" button
+`FlipVert` | `"FlipVert.svg"` | The "Flip vertical" button
+`FullScreen` | `"FullScreen.svg"` | The "Full screen" button
+`Gallery` | `"Gallery.svg"` | The "Gallery" button
+`LockZoom` | `"LockZoom.svg"` | The "Lock zoom ratio" button
+`MainMenu` | `"MainMenu.svg"` | The "Main menu" button
+`OpenFile` | `"OpenFile.svg"` | The "Open file" button
+`Pause` | `"Pause.svg"` | The "Pause" button when the "Page navigation" tool is open
+`Play` | `"Play.svg"` | The "Play" button when the "Page navigation" tool is open
+`Print` | `"Print.svg"` | The "Print" button
+`Refresh` | `"Refresh.svg"` | The "Refresh" button
+`RotateLeft` | `"RotateLeft.svg"` | The "Rotate left" button
+`RotateRight` | `"RotateRight.svg"` | The "Rotate right" button
+`Save` | `"Save.svg"` | The "Save image" button
+`ScaleToFill` | `"ScaleToFill.svg"` | The "Scale to fill" button
+`ScaleToFit` | `"ScaleToFit.svg"` | The "Scale to fit" button
+`ScaleToHeight` | `"ScaleToHeight.svg"` | The "Scale to height" button
+`ScaleToWidth` | `"ScaleToWidth.svg"` | The "Scale to width" button
+`Slideshow` | `"Slideshow.svg"` | The "Slideshow" button
+`ViewFirstImage` | `"ViewFirstImage.svg"` | The "View the first frame" button when the "Page navigation" tool is open
+`ViewLastImage` | `"ViewLastImage.svg"` | The "View the last frame" button when the "Page navigation" tool is open
+`ViewNextImage` | `"ViewNextImage.svg"` | The "View next image" button
+`ViewPreviousImage` | `"ViewPreviousImage.svg"` | The "View previous image" button
+`WindowFit` | `"WindowFit.svg"` | The "Window fit" button
+`ZoomIn` | `"ZoomIn.svg"` | The "Zoom in" button
+`ZoomOut` | `"ZoomOut.svg"` | The "Zoom out" button
+
+
+### 🔵 Step 3. Add icons and image files
+### 🔵 Step 4. Add preview image file for your theme (step 2.3)
+### 🔵 Step 5. Pack your theme
+- Rename your theme folder to match to the naming convention. Example: `Moon-light.james-black.igtheme`
+- Compress the whole theme folder as `zip` file
+- Change the `.zip` extension to `.igtheme`
+
+### 🔵 Step 6. Share your theme
 After creating a nice theme, don't forget sharing it to other people. You can
 - Create [an issue here](https://github.com/ImageGlass/theme/issues), and attach your awesome theme; or
-- Send your theme pack (`.igtheme`) to `phap@imageglass.org` email.
+- Send your theme pack (`.igtheme`) to `phap@imageglass.org` email
 
 
 
 ## 💖 Support this project
-ImageGlass is free and open source but developing it has taken thousands of hours of my time and a large part of my sanity. If you feel this little viewer useful to you, it would go a great way to ensuring that I can afford to take the time to continue to develop it.
+ImageGlass stands as an open-source, ad-free photo viewer, yet its development and upkeep demand resources. Your financial backing not only sustains this project but also fuels my motivation for crafting future releases.
 
-Thanks for your gratitude and finance help!
+Should you opt for [GitHub Sponsor](https://github.com/sponsors/d2phap) or [Patreon](https://www.patreon.com/d2phap), be sure to explore the tier-specific benefits on offer.
+Your support is greatly appreciated!
 
 <a href="https://github.com/sponsors/d2phap" target="_blank" title="Become a sponsor">
 <img src="https://img.shields.io/badge/Github-@d2phap-24292e.svg?maxAge=3600" height="30" alt="Become a sponsor">
