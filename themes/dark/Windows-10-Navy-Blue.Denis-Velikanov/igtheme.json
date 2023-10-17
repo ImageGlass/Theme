@@ -1,0 +1,82 @@
+{
+    "_Metadata": {
+      "Description": "ImageGlass theme configuration file",
+      "Version": "9.0"
+    },
+    "Info": {
+      "Name": "Windows 10 Navy blue",
+      "Author": "Denis Velikanov",
+      "Email": "In-bono-veritas@yandex.ru",
+      "Website": "www.deviantart.com/dehncka",
+      "Description": "Theme for the program ImageGlass in the style of Windows 10 based on the “Segoe MDL2 Assets” icons.",
+      "Version": "3.7.1"
+    },
+    "Settings": {
+      "IsDarkMode": true,
+      "NavButtonLeft": "back.svg",
+      "NavButtonRight": "next.svg",
+      "PreviewImage": "preview.png"
+    },
+    "Colors": {
+      "TextColor": "#FFFFFF",
+      "BgColor": "#21252B",
+  
+      "ToolbarBgColor": "#373E48",
+      "ToolbarTextColor": "#FFFFFF",
+      "ToolbarItemHoverColor": "#0B6CBA",
+      "ToolbarItemActiveColor": "#16619E",
+      "ToolbarItemSelectedColor": "#16619E",
+  
+      "GalleryBgColor": "#373E48",
+      "GalleryTextColor": "#FFFFFF",
+      "GalleryItemHoverColor": "#0B6CBA",
+      "GalleryItemActiveColor": "#16619E",
+      "GalleryItemSelectedColor": "#16619E",
+  
+      "MenuBgColor": "#373E48",
+      "MenuBgHoverColor": "#4B525B",
+      "MenuTextColor": "#FFFFFF",
+      "MenuTextHoverColor": "#FFFFFF",
+  
+      "NavigationButtonColor": "#373E4815"
+    },
+    "ToolbarIcons": {
+      "ActualSize": "ActualSize.svg",
+      "AutoZoom": "autozoom.svg",
+      "Checkerboard": "checkerboard.svg",
+      "ColorPicker": "colorpicker.svg",
+      "Crop": "crop.svg",
+      "Delete": "delete.svg",
+      "Edit": "edit.svg",
+      "FlipHorz": "fliphorz.svg",
+      "FlipVert": "flipvert.svg",
+      "FullScreen": "fullscreen.svg",
+      "GoToImage": "gotoimage.svg",
+      "LockZoom": "zoomlock.svg",
+      "MainMenu": "menu.svg",
+      "OpenFile": "open.svg",
+      "Print": "print.svg",
+      "Refresh": "refresh.svg",
+      "RotateLeft": "leftrotate.svg",
+      "RotateRight": "rightrotate.svg",
+      "Save": "convert.svg",
+      "ScaleToFill": "scaletofill.svg",
+      "ScaleToFit": "scaletofit.svg",
+      "ScaleToHeight": "scaletoheight.svg",
+      "ScaleToWidth": "scaletowidth.svg",
+      "Slideshow": "slideshow.svg",
+      "Gallery": "thumbnail.svg",
+      "ViewFirstImage": "gofirst.svg",
+      "ViewLastImage": "golast.svg",
+      "ViewNextImage": "next.svg",
+      "ViewPreviousImage": "back.svg",
+      "WindowFit": "autosizewindow.svg",
+      "ZoomIn": "zoomin.svg",
+      "ZoomOut": "zoomout.svg",
+      "Play": "Play.svg",
+      "Pause": "Pause.svg",
+      "Export": "Export.svg",
+        "Exit": "Exit.svg"
+    }
+  }
+  
