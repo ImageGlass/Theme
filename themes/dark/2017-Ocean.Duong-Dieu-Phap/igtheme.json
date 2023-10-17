@@ -1,0 +1,81 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "2017 (Ocean)",
+    "Author": "Icons by freepik from Flaticon",
+    "Email": "phap@imageglass.org",
+    "Website": "https://imageglass.org",
+    "Description": "Modern ImageGlass theme (Dark)",
+    "Version": "9.0"
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "NavButtonLeft": "ViewPreviousImage.svg",
+    "NavButtonRight": "ViewNextImage.svg",
+    "PreviewImage": "preview.jpg"
+  },
+  "Colors": {
+    "TextColor": "#f0f0f0",
+    "BgColor": "#3a3c3d",
+
+    "ToolbarBgColor": "#3a3c3d",
+    "ToolbarTextColor": "#f0f0f0",
+    "ToolbarItemHoverColor": "#0078D7",
+    "ToolbarItemActiveColor": "#0078D7",
+    "ToolbarItemSelectedColor": "#004B96",
+
+    "GalleryBgColor": "#3a3c3d",
+    "GalleryTextColor": "#f0f0f0",
+    "GalleryItemHoverColor": "#0078D7",
+    "GalleryItemActiveColor": "#0078D7",
+    "GalleryItemSelectedColor": "#004B96",
+
+    "MenuBgColor": "#484b4c",
+    "MenuBgHoverColor": "#0078D7",
+    "MenuTextColor": "#f0f0f0",
+    "MenuTextHoverColor": "#ffffff",
+
+    "NavigationButtonColor": "#3a3c3d15"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "GoToImage": "GoToImage.svg",
+    "LockZoom": "LockRatio.svg",
+    "MainMenu": "Menu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "Gallery": "Gallery.svg",
+    "ViewFirstImage": "GoToFirst.svg",
+    "ViewLastImage": "GoToLast.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg",
+    "Play": "Play.svg",
+    "Pause": "Pause.svg",
+    "Export": "Export.svg",
+	  "Exit": "Exit.svg"
+  }
+}
