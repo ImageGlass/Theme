@@ -1,7 +1,22 @@
 <ImageGlass>
   <Theme>
-    <Info name="Green Gradient" version="4.0" author="Designed by freepik from Flaticon" email="phap@imageglass.org" website="https://imageglass.org" description="Green Gradient ImageGlass theme" type="ImageGlass Theme Configuration" configversion="8" preview="preview.jpg" />
-    <main topbar="x" topbarcolor="#2A2A2E" bottombar="x" bottombarcolor="#2A2A2E" backcolor="#1A1A1E" statuscolor="#F0F0F0" menubackgroundcolor="#2A2A2E" menubackgroundhovercolor="#29AB77" menutextcolor="#F0F0F0" menutexthovercolor="#000000" accentcolor="#29AB77" accentlightcolor="#29AB77" accentdarkcolor="#136DA1" logo="" isdarkmode="true" />
-    <toolbar_icon back="ViewPreviousImage.svg" next="ViewNextImage.svg" leftrotate="RotateLeft.svg" rightrotate="RotateRight.svg" fliphorz="flip_horiz.svg" flipvert="flip_vert.svg" delete="Delete.svg" edit="Edit.svg" crop="Crop.svg" colorpicker="ColorPicker.svg" zoomin="ZoomIn.svg" zoomout="ZoomOut.svg" zoomtofit="ZoomToFit.svg" zoomlock="LockRatio.svg" autozoom="AutoZoom.svg" scaletofit="ActualSize.svg" scaletowidth="ScaleToWidth.svg" scaletoheight="ScaleToHeight.svg" scaletofill="ScaleToFill.svg" autosizewindow="AdjustWindowSize.svg" open="OpenFile.svg" refresh="Refresh.svg" gotoimage="GoToImage.svg" thumbnail="ThumbnailBar.svg" checkerboard="Checkerboard.svg" fullscreen="FullScreen.svg" slideshow="Slideshow.svg" convert="Convert.svg" print="Print.svg" settings="Settings.svg" menu="Menu.svg" golast="GoLast.svg" gofirst="GoFirst.svg" />
+    <Info name="Green Gradient" version="4.0" author="Designed by freepik from Flaticon"
+      email="phap@imageglass.org" website="https://imageglass.org"
+      description="Green Gradient ImageGlass theme" type="ImageGlass Theme Configuration"
+      configversion="8" preview="preview.jpg" />
+    <main topbar="x" topbarcolor="#2A2A2E" bottombar="x" bottombarcolor="#2A2A2E"
+      backcolor="#1A1A1E" statuscolor="#F0F0F0" menubackgroundcolor="#2A2A2E"
+      menubackgroundhovercolor="#29AB77" menutextcolor="#F0F0F0" menutexthovercolor="#000000"
+      accentcolor="#29AB77" accentlightcolor="#29AB77" accentdarkcolor="#136DA1" logo=""
+      isdarkmode="true" />
+    <toolbar_icon back="ViewPreviousImage.svg" next="ViewNextImage.svg" leftrotate="RotateLeft.svg"
+      rightrotate="RotateRight.svg" fliphorz="FlipHorz.svg" flipvert="FlipVert.svg"
+      delete="Delete.svg" edit="Edit.svg" crop="Crop.svg" colorpicker="ColorPicker.svg"
+      zoomin="ZoomIn.svg" zoomout="ZoomOut.svg" zoomtofit="ScaleToFit.svg" zoomlock="LockRatio.svg"
+      autozoom="AutoZoom.svg" scaletofit="ActualSize.svg" scaletowidth="ScaleToWidth.svg"
+      scaletoheight="ScaleToHeight.svg" scaletofill="ScaleToFill.svg"
+      autosizewindow="WindowFit.svg" open="OpenFile.svg" refresh="Refresh.svg"
+      gotoimage="GoToImage.svg" thumbnail="Gallery.svg" checkerboard="Checkerboard.svg"
+      fullscreen="FullScreen.svg" slideshow="Slideshow.svg" convert="Save.svg" print="Print.svg" menu="Menu.svg" golast="GoLast.svg" gofirst="GoFirst.svg" />
   </Theme>
 </ImageGlass>
