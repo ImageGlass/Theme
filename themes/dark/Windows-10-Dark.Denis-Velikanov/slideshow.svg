@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g id="Слой_2" data-name="Слой 2"><g id="Слой_1-2" data-name="Слой 1"><rect id="canvas_background" data-name="canvas background" width="22" height="22" style="fill:none"/><path d="M1.5,3.88h19V18.13H1.5ZM19.31,16.94V5.06H2.69V16.94ZM18.13,6.25v9.5H3.88V6.25Zm-1.19,8.31V7.44H5.06v7.12ZM8.63,8.63,13.38,11,8.63,13.38Zm.89,1.43v1.88L11.38,11Z" style="fill:#fff"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<rect id="canvas_background_123_" x="0" y="0" class="st0" width="512" height="512"/>
+	<path class="st1" d="M512,64v384H0V64H512z M480,96H32v320h448V96z M448,384H64V128h384V384z M416,160H96v192h320V160z M320,256
+		l-128,64V192L320,256z M216,281.3l50.3-25.3L216,230.8V281.3z"/>
+</g>
+</svg>

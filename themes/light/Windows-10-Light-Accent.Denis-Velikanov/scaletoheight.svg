@@ -1,17 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
-  <defs>
-    <style>
-      .a {
-        fill: none;
-      }
-
-      .b {
-        fill: #2b73b9;
-      }
-    </style>
-  </defs>
-  <g>
-    <rect class="a" width="22" height="22"/>
-    <path class="b" d="M1.5,5.65625V4.46875H2.6875v1.1875Zm0,2.375V6.84375H2.6875v1.1875Zm0,2.375V9.21875H2.6875v1.1875Zm0,2.375v-1.1875H2.6875v1.1875Zm0,2.375v-1.1875H2.6875v1.1875Zm0,2.375v-1.1875H2.6875v1.1875Zm2.375-11.875V4.46875H5.0625v1.1875Zm0,11.875v-1.1875H5.0625v1.1875Zm2.375,0V4.46875h9.5v13.0625Zm1.1875-11.875v10.6875h7.125V5.65625Zm9.5,0V4.46875H18.125v1.1875Zm0,11.875v-1.1875H18.125v1.1875Zm2.375-13.0625H20.5v1.1875H19.3125Zm0,3.5625V6.84375H20.5v1.1875Zm0,2.375V9.21875H20.5v1.1875Zm0,2.375v-1.1875H20.5v1.1875Zm0,2.375v-1.1875H20.5v1.1875Zm0,2.375v-1.1875H20.5v1.1875Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#0078D7;}
+</style>
+<g>
+	<rect id="canvas_background_113_" class="st0" width="512" height="512"/>
+	<path class="st1" d="M368,512H144v-32h224V512z M368,0v32H144V0H368z M335.2,377.1L256,456.6l-79.2-79.5l22.5-22.5l40.7,40.5V116.6
+		l-40.8,40.5l-22.5-22.5L256,55.4l79.2,79.3l-22.5,22.5L272,116.6v278.5l40.8-40.5L335.2,377.1z"/>
+</g>
 </svg>

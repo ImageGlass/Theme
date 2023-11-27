@@ -1,17 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
-  <defs>
-    <style>
-      .a {
-        fill: none;
-      }
-
-      .b {
-        fill: #2b73b9;
-      }
-    </style>
-  </defs>
-  <g>
-    <rect class="a" width="22" height="22"/>
-    <path class="b" d="M1.5,3.875h19v14.25H1.5ZM19.3125,16.9375V5.0625H2.6875v11.875ZM18.125,6.25v9.5H3.875V6.25Zm-1.1875,8.3125V7.4375H5.0625v7.125ZM8.625,8.625,13.375,11l-4.75,2.375Zm.89063,1.438v1.874L11.38037,11Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#0078D7;}
+</style>
+<g>
+	<rect id="canvas_background_123_" class="st0" width="512" height="512"/>
+	<path class="st1" d="M512,64v384H0V64H512z M480,96H32v320h448V96z M448,384H64V128h384V384z M416,160H96v192h320V160z M320,256
+		l-128,64V192L320,256z M216,281.3l50.3-25.3L216,230.8V281.3z"/>
+</g>
 </svg>

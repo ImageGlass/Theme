@@ -1,82 +1,83 @@
 {
-    "_Metadata": {
-      "Description": "ImageGlass theme configuration file",
-      "Version": "9.0"
-    },
-    "Info": {
-      "Name": "Windows 10 Light - Accent",
-      "Author": "Denis Velikanov",
-      "Email": "In-bono-veritas@yandex.ru",
-      "Website": "www.deviantart.com/dehncka",
-      "Description": "Theme for the program ImageGlass in the style of Windows 10 based on the “Segoe MDL2 Assets” icons.",
-      "Version": "3.7.1"
-    },
-    "Settings": {
-      "IsDarkMode": false,
-      "NavButtonLeft": "back.svg",
-      "NavButtonRight": "next.svg",
-      "PreviewImage": "preview.png"
-    },
-    "Colors": {
-      "TextColor": "#000000",
-      "BgColor": "#E6E6E6",
-  
-      "ToolbarBgColor": "#E6E6E6",
-      "ToolbarTextColor": "#000000",
-      "ToolbarItemHoverColor": "#CFCFCF",
-      "ToolbarItemActiveColor": "#B8B8B8",
-      "ToolbarItemSelectedColor": "#B8B8B8",
-  
-      "GalleryBgColor": "#E6E6E6",
-      "GalleryTextColor": "#000000",
-      "GalleryItemHoverColor": "#CFCFCF",
-      "GalleryItemActiveColor": "#B8B8B8",
-      "GalleryItemSelectedColor": "#B8B8B8",
-  
-      "MenuBgColor": "#E6E6E6",
-      "MenuBgHoverColor": "#CFCFCF",
-      "MenuTextColor": "#000000",
-      "MenuTextHoverColor": "#000000",
-  
-      "NavigationButtonColor": "#E6E6E615"
-    },
-    "ToolbarIcons": {
-      "ActualSize": "ActualSize.svg",
-      "AutoZoom": "autozoom.svg",
-      "Checkerboard": "checkerboard.svg",
-      "ColorPicker": "colorpicker.svg",
-      "Crop": "crop.svg",
-      "Delete": "delete.svg",
-      "Edit": "edit.svg",
-      "FlipHorz": "fliphorz.svg",
-      "FlipVert": "flipvert.svg",
-      "FullScreen": "fullscreen.svg",
-      "GoToImage": "gotoimage.svg",
-      "LockZoom": "zoomlock.svg",
-      "MainMenu": "menu.svg",
-      "OpenFile": "open.svg",
-      "Print": "print.svg",
-      "Refresh": "refresh.svg",
-      "RotateLeft": "leftrotate.svg",
-      "RotateRight": "rightrotate.svg",
-      "Save": "convert.svg",
-      "ScaleToFill": "scaletofill.svg",
-      "ScaleToFit": "scaletofit.svg",
-      "ScaleToHeight": "scaletoheight.svg",
-      "ScaleToWidth": "scaletowidth.svg",
-      "Slideshow": "slideshow.svg",
-      "Gallery": "thumbnail.svg",
-      "ViewFirstImage": "gofirst.svg",
-      "ViewLastImage": "golast.svg",
-      "ViewNextImage": "next.svg",
-      "ViewPreviousImage": "back.svg",
-      "WindowFit": "autosizewindow.svg",
-      "ZoomIn": "zoomin.svg",
-      "ZoomOut": "zoomout.svg",
-      "Play": "Play.svg",
-      "Pause": "Pause.svg",
-      "Export": "Export.svg",
-        "Exit": "Exit.svg"
-    }
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "Windows 10 Light - accent",
+    "Author": "Denis Velikanov",
+    "Email": "In-bono-veritas@yandex.ru",
+    "Website": "www.deviantart.com/dehncka",
+    "Description": "Theme for the program ImageGlass in the style of Windows 10 based on the «Segoe MDL2 Assets» and «Fabric External MDL2 Assets» icons.",
+    "Version": "9.0+"
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "NavButtonLeft": "ViewPreviousImage.svg",
+    "NavButtonRight": "ViewNextImage.svg",
+    "AppLogo": "Logo.svg",
+    "PreviewImage": "Preview.jpg"
+  },
+  "Colors": {
+    "BgColor": "#E6E6E6",
+    "TextColor": "#000000",
+
+    "ToolbarBgColor": "#E6E6E6",
+    "ToolbarTextColor": "#000000",
+    "ToolbarItemHoverColor": "#B8B8B8",
+    "ToolbarItemActiveColor": "#CFCFCF",
+    "ToolbarItemSelectedColor": "#CFCFCF",
+
+    "GalleryBgColor": "#E6E6E6",
+    "GalleryTextColor": "#000000",
+    "GalleryItemHoverColor": "#B8B8B8",
+    "GalleryItemActiveColor": "#CFCFCF",
+    "GalleryItemSelectedColor": "#CFCFCF",
+
+    "MenuBgColor": "#E6E6E6",
+    "MenuBgHoverColor": "#CFCFCF",
+    "MenuTextColor": "#000000",
+    "MenuTextHoverColor": "#000000",
+
+    "NavigationButtonColor": "#E6E6E615"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Bookmarks": "Bookmarks.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "GoToImage": "GoToImage.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "MainMenu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
   }
-  
+}

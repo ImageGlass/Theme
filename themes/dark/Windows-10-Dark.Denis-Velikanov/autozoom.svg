@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g id="Слой_2" data-name="Слой 2"><g id="Слой_1-2" data-name="Слой 1"><rect id="canvas_background" data-name="canvas background" width="22" height="22" style="fill:none"/><path d="M1.5,3.88V18.13h19V3.88ZM2.69,5.06H19.31V16.94H2.69Z" style="fill:#fff"/><rect x="16.94" y="6.25" width="1.19" height="1.19" style="fill:#fff"/><rect x="14.56" y="6.25" width="1.19" height="1.19" style="fill:#fff"/><rect x="12.19" y="6.25" width="1.19" height="1.19" style="fill:#fff"/><rect x="9.81" y="6.25" width="1.19" height="1.19" style="fill:#fff"/><rect x="7.44" y="6.25" width="1.19" height="1.19" style="fill:#fff"/><rect x="5.06" y="6.25" width="1.19" height="1.19" style="fill:#fff"/><rect x="3.87" y="7.44" width="1.19" height="1.19" style="fill:#fff"/><rect x="3.87" y="9.81" width="1.19" height="1.19" style="fill:#fff"/><rect x="3.87" y="12.19" width="1.19" height="1.19" style="fill:#fff"/><rect x="3.87" y="14.56" width="1.19" height="1.19" style="fill:#fff"/><rect x="6.25" y="14.56" width="1.19" height="1.19" style="fill:#fff"/><rect x="8.62" y="14.56" width="1.19" height="1.19" style="fill:#fff"/><rect x="11" y="14.56" width="1.19" height="1.19" style="fill:#fff"/><rect x="13.38" y="14.56" width="1.19" height="1.19" style="fill:#fff"/><rect x="15.75" y="14.56" width="1.19" height="1.19" style="fill:#fff"/><rect x="16.94" y="13.38" width="1.19" height="1.19" style="fill:#fff"/><rect x="16.94" y="11" width="1.19" height="1.19" style="fill:#fff"/><rect x="16.94" y="8.63" width="1.19" height="1.19" style="fill:#fff"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<rect id="canvas_background_109_" x="0" y="0" class="st0" width="512" height="512"/>
+	<path class="st1" d="M128,32H54.8l84.5,84.8l-22.5,22.5L32,54.8V128H0V0h128V32z M116.8,372.8l22.5,22.5L54.8,480H128v32H0V384h32
+		v73.3L116.8,372.8z M160,352V160h192v192H160z M192,192v128h128V192H192z M384,0h128v128h-32V54.8l-84.8,84.5l-22.5-22.5L457.3,32
+		H384V0z M480,457.3V384h32v128H384v-32h73.3l-84.5-84.8l22.5-22.5L480,457.3z"/>
+</g>
+</svg>

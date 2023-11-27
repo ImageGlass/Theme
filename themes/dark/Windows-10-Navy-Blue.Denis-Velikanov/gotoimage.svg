@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><g id="Слой_2" data-name="Слой 2"><g id="Слой_1-2" data-name="Слой 1"><rect id="canvas_background" data-name="canvas background" width="22" height="22" style="fill:none"/><path d="M20.49,1.51V11H19.3V3.55L2.35,20.49l-.84-.84L18.45,2.7H11V1.51Z" style="fill:#fff"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<rect id="canvas_background_120_" x="0" y="0" class="st0" width="512" height="512"/>
+	<path class="st1" d="M511.6,0.4v256h-32V55.1L22.9,511.6L0.4,489.1L456.9,32.4H255.6v-32H511.6z"/>
+</g>
+</svg>

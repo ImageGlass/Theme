@@ -1,37 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
-  <defs>
-    <style>
-      .a {
-        fill: none;
-      }
-
-      .b {
-        fill: #2b73b9;
-      }
-    </style>
-  </defs>
-  <g>
-    <rect class="a" width="22" height="22"/>
-    <g>
-      <path class="b" d="M1.5,3.875v14.25h19V3.875ZM2.6875,5.0625h16.625v11.875H2.6875Z"/>
-      <rect class="b" x="16.9375" y="6.25" width="1.1875" height="1.1875"/>
-      <rect class="b" x="14.5625" y="6.25" width="1.1875" height="1.1875"/>
-      <rect class="b" x="12.1875" y="6.25" width="1.1875" height="1.1875"/>
-      <rect class="b" x="9.8125" y="6.25" width="1.1875" height="1.1875"/>
-      <rect class="b" x="7.4375" y="6.25" width="1.1875" height="1.1875"/>
-      <rect class="b" x="5.0625" y="6.25" width="1.1875" height="1.1875"/>
-      <rect class="b" x="3.875" y="7.4375" width="1.1875" height="1.1875"/>
-      <rect class="b" x="3.875" y="9.8125" width="1.1875" height="1.1875"/>
-      <rect class="b" x="3.875" y="12.1875" width="1.1875" height="1.1875"/>
-      <rect class="b" x="3.875" y="14.5625" width="1.1875" height="1.1875"/>
-      <rect class="b" x="6.25" y="14.5625" width="1.1875" height="1.1875"/>
-      <rect class="b" x="8.625" y="14.5625" width="1.1875" height="1.1875"/>
-      <rect class="b" x="11" y="14.5625" width="1.1875" height="1.1875"/>
-      <rect class="b" x="13.375" y="14.5625" width="1.1875" height="1.1875"/>
-      <rect class="b" x="15.75" y="14.5625" width="1.1875" height="1.1875"/>
-      <rect class="b" x="16.9375" y="13.375" width="1.1875" height="1.1875"/>
-      <rect class="b" x="16.9375" y="11" width="1.1875" height="1.1875"/>
-      <rect class="b" x="16.9375" y="8.625" width="1.1875" height="1.1875"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#0078D7;}
+</style>
+<g>
+	<rect id="canvas_background_109_" class="st0" width="512" height="512"/>
+	<path class="st1" d="M128,32H54.8l84.5,84.8l-22.5,22.5L32,54.8V128H0V0h128V32z M116.8,372.8l22.5,22.5L54.8,480H128v32H0V384h32
+		v73.3L116.8,372.8z M160,352V160h192v192H160z M192,192v128h128V192H192z M384,0h128v128h-32V54.8l-84.8,84.5l-22.5-22.5L457.3,32
+		H384V0z M480,457.3V384h32v128H384v-32h73.3l-84.5-84.8l22.5-22.5L480,457.3z"/>
+</g>
 </svg>

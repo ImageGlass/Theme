@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><defs><style>.cls-1{fill:none;}</style></defs><g id="Слой_2" data-name="Слой 2"><g id="Слой_1-2" data-name="Слой 1"><rect id="canvas_background" data-name="canvas background" class="cls-1" width="22" height="22"/><path d="M1.5,5.66V4.47H2.69V5.66ZM1.5,8V6.84H2.69V8Zm0,2.38V9.22H2.69v1.19Zm0,2.37V11.59H2.69v1.19Zm0,2.38V14H2.69v1.19Zm0,2.37V16.34H2.69v1.19ZM3.88,5.66V4.47H5.06V5.66Zm0,11.87V16.34H5.06v1.19Zm2.37,0V4.47h9.5V17.53ZM7.44,5.66V16.34h7.12V5.66Zm9.5,0V4.47h1.19V5.66Zm0,11.87V16.34h1.19v1.19ZM19.31,4.47H20.5V5.66H19.31Zm0,3.56V6.84H20.5V8Zm0,2.38V9.22H20.5v1.19Zm0,2.37V11.59H20.5v1.19Zm0,2.38V14H20.5v1.19Zm0,2.37V16.34H20.5v1.19Z"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+</style>
+<g>
+	<rect id="canvas_background_113_" class="st0" width="512" height="512"/>
+	<path d="M368,512H144v-32h224V512z M368,0v32H144V0H368z M335.2,377.1L256,456.6l-79.2-79.5l22.5-22.5l40.7,40.5V116.6l-40.8,40.5
+		l-22.5-22.5L256,55.4l79.2,79.3l-22.5,22.5L272,116.6v278.5l40.8-40.5L335.2,377.1z"/>
+</g>
+</svg>

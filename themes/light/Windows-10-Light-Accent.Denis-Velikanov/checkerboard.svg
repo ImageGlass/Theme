@@ -1,17 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
-  <defs>
-    <style>
-      .a {
-        fill: none;
-      }
-
-      .b {
-        fill: #2b73b9;
-      }
-    </style>
-  </defs>
-  <g>
-    <rect class="a" width="22" height="22"/>
-    <path class="b" d="M2.09375,10.40625V2.09375h8.3125v8.3125Zm0,9.5v-8.3125h8.3125v8.3125Zm1.1875-16.625v5.9375h5.9375V3.28125Zm0,9.5v5.9375h5.9375v-5.9375Zm8.3125-10.6875h8.3125v8.3125h-8.3125Zm0,17.8125v-8.3125h8.3125v8.3125Zm7.125-10.6875V3.28125h-5.9375v5.9375Zm-5.9375,3.5625v5.9375h5.9375v-5.9375Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#0078D7;}
+</style>
+<g>
+	<rect id="canvas_background_125_" class="st0" width="512" height="512"/>
+	<path class="st1" d="M16,240V16h224v224H16z M16,496V272h224v224H16z M48,48v160h160V48H48z M48,304v160h160V304H48z M272,16h224
+		v224H272V16z M272,496V272h224v224H272z M464,208V48H304v160H464z M304,304v160h160V304H304z"/>
+</g>
 </svg>

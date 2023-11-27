@@ -1,17 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="7.76111mm" height="7.76111mm" viewBox="0 0 22 22">
-  <defs>
-    <style>
-      .a {
-        fill: none;
-      }
-
-      .b {
-        fill: #2b73b9;
-      }
-    </style>
-  </defs>
-  <g>
-    <rect class="a" width="22" height="22"/>
-    <polygon class="b" points="6.444 5.466 7.334 6.355 10.388 3.311 10.388 3.44 10.388 18.56 10.388 18.689 7.334 15.645 6.444 16.534 11 21.09 15.556 16.535 14.667 15.645 11.653 18.659 11.653 18.56 11.653 3.44 11.653 3.341 14.667 6.355 15.556 5.465 11 0.91 6.444 5.466"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#0078D7;}
+</style>
+<g>
+	<rect id="canvas_background_106_" class="st0" width="512" height="512"/>
+	<polygon class="st1" points="371.2,396 348.7,373.5 271.5,450.5 271.5,447.3 271.5,64.8 271.5,61.5 348.8,138.5 371.3,116 256,0.8 
+		140.8,116 163.3,138.5 239.5,62.3 239.5,64.8 239.5,447.3 239.5,449.7 163.2,373.5 140.7,396 256,511.2 	"/>
+</g>
 </svg>
