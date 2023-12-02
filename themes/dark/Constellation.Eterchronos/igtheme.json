@@ -1,0 +1,82 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "Constellation",
+    "Author": "eterchronos",
+    "Email": "lukassprovieri@gmail.com",
+    "Description": "A nice and sweet theme",
+    "Version": "9.0+"
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "NavButtonLeft": "ViewPreviousImage.svg",
+    "NavButtonRight": "ViewNextImage.svg",
+    "AppLogo": "eterchronos.svg",
+    "PreviewImage": "Preview.jpg"
+  },
+  "Colors": {
+    "BgColor": "#0a0b0b",
+    "TextColor": "#fefefe",
+
+    "ToolbarBgColor": "#0a0b0b",
+    "ToolbarTextColor": "#fefefe",
+    "ToolbarItemHoverColor": "#28243a",
+    "ToolbarItemActiveColor": "#28243a",
+    "ToolbarItemSelectedColor": "#28243a",
+
+    "GalleryBgColor": "#0a0b0b",
+    "GalleryTextColor": "#fefefe",
+    "GalleryItemHoverColor": "#28243a",
+    "GalleryItemActiveColor": "#28243a",
+    "GalleryItemSelectedColor": "#28243a",
+
+    "MenuBgColor": "#0a0b0b",
+    "MenuBgHoverColor": "#28243a",
+    "MenuTextColor": "#fefefe",
+    "MenuTextHoverColor": "#fefefe",
+
+    "NavigationButtonColor": "#6b69d6"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Bookmarks": "Bookmarks.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "GoToImage": "GoToImage.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "Menu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}
