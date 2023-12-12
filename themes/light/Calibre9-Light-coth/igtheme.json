@@ -1,0 +1,83 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "Calibre9 Light",
+    "Author": "coth",
+    "Email": "",
+    "Website": "https://github.com/regs01",
+    "Description": "ImageGlass 9 Calibre iconset.",
+    "Version": "9.0+"
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "NavButtonLeft": "lc_prevrecord.svg",
+    "NavButtonRight": "lc_nextrecord.svg",
+    "AppLogo": "",
+    "PreviewImage": "preview.webp"
+  },
+  "Colors": {
+    "BgColor": "#F3F3F3",
+    "TextColor": "#000000",
+
+    "ToolbarBgColor": "#F3F3F3",
+    "ToolbarTextColor": "#000000",
+    "ToolbarItemHoverColor": "#E8E8E8",
+    "ToolbarItemActiveColor": "#E0E0E0",
+    "ToolbarItemSelectedColor": "#E0E0E0",
+
+    "GalleryBgColor": "#F3F3F3",
+    "GalleryTextColor": "#000000",
+    "GalleryItemHoverColor": "#E8E8E8",
+    "GalleryItemActiveColor": "#E0E0E0",
+    "GalleryItemSelectedColor": "#E0E0E0",
+
+    "MenuBgColor": "#F3F3F3",
+    "MenuBgHoverColor": "#E0E0E0",
+    "MenuTextColor": "#000000",
+    "MenuTextHoverColor": "#000000",
+
+    "NavigationButtonColor": "#F3F3F320"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "lc_zoom100percent.svg",
+    "AutoZoom": "lc_zoom.svg",
+    "Bookmarks": "lc_insertbookmark.svg",
+    "Checkerboard": "transition-checkerboard.svg",
+    "ColorPicker": "lc_colorsettings.svg",
+    "Crop": "lc_crop.svg",
+    "Delete": "lc_delete.svg",
+    "Edit": "lc_editframeset.svg",
+    "Exit": "lc_quit.svg",
+    "Export": "lc_exportto.svg",
+    "FlipHorz": "lc_mirror.svg",
+    "FlipVert": "lc_mirrorvert.svg",
+    "FullScreen": "lc_fullscreen.svg",
+    "Gallery": "lc_gridvisible.svg",
+    "GoToImage": "lc_gotopage.svg",
+    "LockZoom": "lc_protect.svg",
+    "MainMenu": "lc_optionstreedialog.svg",
+    "OpenFile": "lc_gallery.svg",
+    "Pause": "lc_mediapause.svg",
+    "Play": "nextslide.svg",
+    "Print": "lc_print.svg",
+    "Refresh": "lc_reload.svg",
+    "RotateLeft": "lc_rotateleft.svg",
+    "RotateRight": "lc_rotateright.svg",
+    "Save": "lc_save.svg",
+    "ScaleToFill": "lc_zoompagewidth.svg",
+    "ScaleToFit": "lc_zoompage.svg",
+    "ScaleToHeight": "lc_greatestheight.svg",
+    "ScaleToWidth": "lc_greatestwidth.svg",
+    "Slideshow": "lc_presentation.svg",
+    "ViewFirstImage": "lc_firstrecord.svg",
+    "ViewLastImage": "lc_lastrecord.svg",
+    "ViewNextImage": "lc_nextrecord.svg",
+    "ViewPreviousImage": "lc_prevrecord.svg",
+    "WindowFit": "documentsizecopy_24x24.svg",
+    "ZoomIn": "lc_zoomin.svg",
+    "ZoomOut": "lc_zoomout.svg"
+  }
+}
