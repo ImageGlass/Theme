@@ -57,7 +57,7 @@ THEME_FOLDER
 ### 1. Create theme pack folder structure
 ### 2. Create `igtheme.xml` file
 This is the most important file of the theme, it provides all the SVG icon files to ImageGlass app and other information of your theme.
-You can see full `igtheme.xml` example at https://github.com/ImageGlass/theme/blob/master/themes/dark/2017_dark/igtheme.xml
+You can see full `igtheme.xml` example at [https://github.com/ImageGlass/theme/blob/master/themes/dark/2017_dark/igtheme.xml](https://github.com/ImageGlass/Theme/blob/main/themes/dark/2017-Ocean.Duong-Dieu-Phap/igtheme.xml)
 
 There are 3 sections in `<Theme>` element:
 
