@@ -1,0 +1,82 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "Line(Gray)",
+    "Author": "小恐龙",
+    "Email": "xkonglong@QQ.com",
+    "Website": "xkonglong.com",
+    "Description": "Show line icon for ImageGlass.",
+    "Version": "9.0"
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "IsShowTitlebarLogo": true,
+    "NavButtonLeft": "prv.svg",
+    "NavButtonRight": "next.svg",
+    "PreviewImage": "preview 1.png",
+    "AppLogo": "Logo.svg"
+  },
+  "Colors": {
+    "BgColor":"#A3A3A3",
+    "ToolbarBgColor":"#A3A3A3",
+    "MenuBgColor":"#A3A3A3",
+    "GalleryBgColor":"#A3A3A3",
+    "TextColor":"#000000",
+    "MenuTextColor":"#000000",
+    "GalleryTextColor":"#000000",
+    "":"",
+    "MenuBgHoverColor": "accent:50",
+
+    "ToolbarItemHoverColor": "accent:140",
+    "ToolbarItemActiveColor": "accent:80",
+    "ToolbarItemSelectedColor": "accent:100",
+
+    "GalleryItemHoverColor": "accent:140",
+    "GalleryItemActiveColor": "accent:80",
+    "GalleryItemSelectedColor": "accent:100",
+
+    "NavigationButtonColor": "accent:140"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "real.svg",
+    "AutoZoom": "Auto.svg",
+    "Checkerboard": "bg.svg",
+    "ColorPicker": "Color.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Del.svg",
+    "Edit": "Edit.svg",
+    "Export": "Export.svg",
+    "Exit": "Exit.svg",
+    "FlipHorz": "Flip-H.svg",
+    "FlipVert": "Flip-V.svg",
+    "FullScreen": "Full.svg",
+    "GoToImage": "GoTo.svg",
+    "LockZoom": "Lock.svg",
+    "MainMenu": "Menu.svg",
+    "OpenFile": "Open.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "Left.svg",
+    "RotateRight": "Right.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "win-full.svg",
+    "ScaleToFit": "win-auto.svg",
+    "ScaleToHeight": "Height.svg",
+    "ScaleToWidth": "Width.svg",
+    "Slideshow": "Slideshow.svg",
+    "Gallery": "list.svg",
+    "ViewFirstImage": "go-start.svg",
+    "ViewLastImage": "go-end.svg",
+    "ViewNextImage": "next.svg",
+    "ViewPreviousImage": "prv.svg",
+    "WindowFit": "win-real.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg",
+    
+  }
+}
