@@ -1,7 +1,7 @@
 # ImageGlass 9 Theme Pack
 Customize the appearance of ImageGlass by creating your own theme pack. An ImageGlass theme pack is an archive file with a `.igtheme` extension that can be opened with any archive viewer, such as WinRar or 7Zip, or simply change its extension to `.zip` and open it with File Explorer on Windows.
 
-This documentation guides you through creating a theme pack for ImageGlass version 9 or above.
+> 💡 This guide covers the theme pack format for ImageGlass 9. If you are building a theme for ImageGlass 10, refer to [Create a theme for ImageGlass 9](https://github.com/ImageGlass/Theme/blob/main/docs/theme-for-v10.md) instead.
 
 ## Theme Pack Structure
 A theme pack folder should contain the following:
@@ -62,9 +62,8 @@ This is the most crucial file in the theme pack, providing all the necessary SVG
 }
 ```
 
-::: { .box .d-flex }
-💡 For a complete example of `igtheme.json` file, please refer to [dark/Green-Gradient.Duong-Dieu-Phap/igtheme.json](https://github.com/ImageGlass/Theme/blob/main/themes/dark/Green-Gradient.Duong-Dieu-Phap/igtheme.json).
-:::
+> 💡 For a complete example of the `igtheme.json` file, refer to [Green-Gradient.Duong-Dieu-Phap/igtheme.json](https://github.com/ImageGlass/Theme/blob/e8f78aa0846dccf4b4bf63f3734092d5f45d170c/themes/dark/Green-Gradient.Duong-Dieu-Phap/igtheme.json).
+
 
 #### 🟢 Step 2.1: Section `_Metadata`
 Provides the metadata of the ImageGlass theme pack. Do not alter this section.
