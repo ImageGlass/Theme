@@ -1,4 +1,4 @@
-# ImageGlass 10 Theme Packs
+# ImageGlass 10 Theme Pack
 
 Customize the appearance of ImageGlass by creating your own theme pack. An ImageGlass theme pack is an archive file with the `.igtheme.zip` extension. Because it ends in `.zip`, you can open it directly with any archive viewer, or File Explorer on Windows.
 
