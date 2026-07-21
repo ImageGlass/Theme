@@ -1,4 +1,4 @@
-🎏 ImageGlass theme packs
+🎏 ImageGlass 8 Theme Pack
 ==
 The up-to-date theme packs for [ImageGlass](https://imageglass.org/)
 
