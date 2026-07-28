@@ -1,0 +1,60 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Colibre infinity",
+    "Version": 10,
+    "Description": "Clear office-like theme for ImageGlass in 20x20px scale-able SVGs",
+    "Author": "Amir H. Jahangard",
+    "Email": "iJahangard@outlook.com",
+    "Website": ""
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "AppLogo": "",
+    "PreviewImage": "colipre.png"
+  },
+  "Colors": {
+    "AccentColor": "",
+    "TextColor": "#000000",
+    "BgColor": "#F2F2F2",
+    "ToolbarBgColor": "#F2F2F2",
+    "GalleryBgColor": "#F2F2F2",
+    "MenuBgColor": "#F2F2F2"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "scaletofit.svg",
+    "AutoZoom": "autozoom.svg",
+    "Checkerboard": "checkerboard.svg",
+    "ColorPicker": "colorpicker.svg",
+    "Crop": "crop.svg",
+    "Delete": "delete.svg",
+    "Edit": "edit.svg",
+    "FlipHorz": "fliphorz.svg",
+    "FlipVert": "flipvert.svg",
+    "FullScreen": "fullscreen.svg",
+    "Gallery": "thumbnail.svg",
+    "LockZoom": "zoomlock.svg",
+    "MainMenu": "menu.svg",
+    "OpenFile": "open.svg",
+    "Print": "print.svg",
+    "Refresh": "refresh.svg",
+    "RotateLeft": "leftrotate.svg",
+    "RotateRight": "rightrotate.svg",
+    "Save": "convert.svg",
+    "ScaleToFill": "scaletofill.svg",
+    "ScaleToFit": "zoomtofit.svg",
+    "ScaleToHeight": "scaletoheight.svg",
+    "ScaleToWidth": "scaletowidth.svg",
+    "Slideshow": "slideshow.svg",
+    "ViewFirstImage": "gofirst.svg",
+    "ViewLastImage": "golast.svg",
+    "ViewNextImage": "next.svg",
+    "ViewPreviousImage": "back.svg",
+    "WindowFit": "autosizewindow.svg",
+    "ZoomIn": "zoomin.svg",
+    "ZoomOut": "zoomout.svg"
+  }
+}

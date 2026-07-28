@@ -1,50 +1,32 @@
 {
   "_Metadata": {
     "Description": "ImageGlass theme configuration file",
-    "Version": "9.0"
+    "Version": 10
   },
   "Info": {
     "Name": "Calibre9 Light",
+    "Version": 10,
+    "Description": "Calibre iconset for ImageGlass.",
     "Author": "coth",
     "Email": "",
-    "Website": "https://github.com/regs01",
-    "Description": "ImageGlass 9 Calibre iconset.",
-    "Version": "9.0+"
+    "Website": "https://github.com/regs01"
   },
   "Settings": {
     "IsDarkMode": false,
-    "NavButtonLeft": "lc_prevrecord.svg",
-    "NavButtonRight": "lc_nextrecord.svg",
     "AppLogo": "",
     "PreviewImage": "preview.webp"
   },
   "Colors": {
-    "BgColor": "#F3F3F3",
+    "AccentColor": "",
     "TextColor": "#000000",
-
+    "BgColor": "#F3F3F3",
     "ToolbarBgColor": "#F3F3F3",
-    "ToolbarTextColor": "#000000",
-    "ToolbarItemHoverColor": "#E8E8E8",
-    "ToolbarItemActiveColor": "#E0E0E0",
-    "ToolbarItemSelectedColor": "#E0E0E0",
-
     "GalleryBgColor": "#F3F3F3",
-    "GalleryTextColor": "#000000",
-    "GalleryItemHoverColor": "#E8E8E8",
-    "GalleryItemActiveColor": "#E0E0E0",
-    "GalleryItemSelectedColor": "#E0E0E0",
-
-    "MenuBgColor": "#F3F3F3",
-    "MenuBgHoverColor": "#E0E0E0",
-    "MenuTextColor": "#000000",
-    "MenuTextHoverColor": "#000000",
-
-    "NavigationButtonColor": "#F3F3F320"
+    "MenuBgColor": "#F3F3F3"
   },
   "ToolbarIcons": {
     "ActualSize": "lc_zoom100percent.svg",
     "AutoZoom": "lc_zoom.svg",
-    "Bookmarks": "lc_insertbookmark.svg",
     "Checkerboard": "transition-checkerboard.svg",
     "ColorPicker": "lc_colorsettings.svg",
     "Crop": "lc_crop.svg",
@@ -56,7 +38,6 @@
     "FlipVert": "lc_mirrorvert.svg",
     "FullScreen": "lc_fullscreen.svg",
     "Gallery": "lc_gridvisible.svg",
-    "GoToImage": "lc_gotopage.svg",
     "LockZoom": "lc_protect.svg",
     "MainMenu": "lc_optionstreedialog.svg",
     "OpenFile": "lc_gallery.svg",

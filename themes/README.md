@@ -1,17 +1,19 @@
 # 👙 ImageGlass theme packs
-Contents all beautiful theme packs for ImageGlass.
+Find all beautiful theme packs for ImageGlass.
 
 
 ## How to install:
-### 1. Using ImageGlass Settings:
-- Open ImageGlass app, click on main menu > Settings (or press <kbd>Ctrl+Shift+P</kbd>)
-- In the Settings window, click on the "**Theme**" tab.
-- Click on "**Install...**" button and select the theme pack file (*.igtheme).
-- Select the installed theme pack from the list, click on "**Apply theme**" button.
-- Close the Settings window.
+1. Download the theme you want. Every pack is a single `*.igtheme.zip` file.
+2. Open ImageGlass, then open **Settings** from the main menu (or press <kbd>Ctrl+,</kbd>).
+3. Go to the **Appearance** tab, **Theme** section.
+4. Click **Install theme packs** and pick one or more `*.igtheme.zip` files. They show up in the list right away.
+5. On the pack you want, click **Dark** to use it in dark mode, **Light** to use it in light mode, or both to use it in every color mode.
+6. Click **OK** or **Apply**, then close the Settings window. Your choice is not saved until you do.
 
-### 2. Using File explorer:
-- Open "**Themes**" folder of ImageGlass (you can find it in the ImageGlass Settings > Themes, click on "**Open theme folder**" button).
-- Change the downloaded theme pack extension from `.igtheme` to `.zip`, and then extract the theme folder into ImageGlass "**Themes**" folder.
-- Launch ImageGlass app, open Settings > Theme tab, and select the theme pack from the list, click on "**Apply theme**" button.
-- Close the Settings window.
+> 💡 The **Dark**/**Light** badge on a pack tells you which color mode its author designed it for. You can still assign it to the other mode, but the colors may not suit it.
+
+### Install manually
+Click **Open theme folder** in the same section, extract the theme folder out of the `.igtheme.zip` into it, then click **Refresh**. Continue from step 5 above.
+
+### A pack won't install?
+ImageGlass 10 only loads packs built for version 10. Older ImageGlass 9 and 8 packs are rejected, and the ones that failed are listed for you. Ask the author for an updated pack, or follow the [theme spec](../docs/theme-for-v10.md) to update it yourself.

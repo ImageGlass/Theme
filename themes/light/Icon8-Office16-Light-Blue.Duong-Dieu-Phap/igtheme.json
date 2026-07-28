@@ -1,0 +1,54 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Icon8 Office16 (Light Blue)",
+    "Version": 10,
+    "Description": "Office icon style from Icon8",
+    "Author": "Dương Diệu Pháp",
+    "Email": "phap@imageglass.org",
+    "Website": "https://imageglass.org"
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "AppLogo": "",
+    "PreviewImage": "preview.jpg"
+  },
+  "Colors": {
+    "AccentColor": "#34619e",
+    "TextColor": "#000000",
+    "BgColor": "#ecf3f9",
+    "ToolbarBgColor": "#d8e6f1",
+    "GalleryBgColor": "#d8e6f1",
+    "MenuBgColor": "#f7fcff"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "zoom_actual_size.svg",
+    "AutoZoom": "auto_zoom.svg",
+    "Checkerboard": "checkerboard.svg",
+    "Delete": "delete.svg",
+    "FlipHorz": "flip_horiz.svg",
+    "FlipVert": "flip_vert.svg",
+    "FullScreen": "fullscreen.svg",
+    "Gallery": "thumbnail.svg",
+    "LockZoom": "zoom_lock.svg",
+    "MainMenu": "menu.svg",
+    "OpenFile": "open.svg",
+    "Print": "print.svg",
+    "Refresh": "refresh.svg",
+    "RotateLeft": "rotate_left.svg",
+    "RotateRight": "rotate_right.svg",
+    "Save": "save.svg",
+    "ScaleToFit": "scale_to_fit.svg",
+    "ScaleToHeight": "scale_to_height.svg",
+    "ScaleToWidth": "scale_to_width.svg",
+    "Slideshow": "slideshow.svg",
+    "ViewNextImage": "next.svg",
+    "ViewPreviousImage": "back.svg",
+    "WindowFit": "adjust_window_size.svg",
+    "ZoomIn": "zoom_in.svg",
+    "ZoomOut": "zoom_out.svg"
+  }
+}

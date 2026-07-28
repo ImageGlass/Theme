@@ -1,0 +1,60 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Roka",
+    "Version": 10,
+    "Description": "An ImageGlass theme",
+    "Author": "B.R",
+    "Email": "brests@protonmail.com",
+    "Website": "https://imageglass.org"
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "AppLogo": "image.svg",
+    "PreviewImage": "preview.jpg"
+  },
+  "Colors": {
+    "AccentColor": "",
+    "TextColor": "#F4EDE5",
+    "BgColor": "#A8A39E",
+    "ToolbarBgColor": "#A8A39E",
+    "GalleryBgColor": "#8F8B86",
+    "MenuBgColor": "#A8A39E"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "ThumbnailBar.svg",
+    "LockZoom": "LockRatio.svg",
+    "MainMenu": "Menu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Convert.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "GoToFirst.svg",
+    "ViewLastImage": "GotoLast.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "AdjustWindowSize.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}

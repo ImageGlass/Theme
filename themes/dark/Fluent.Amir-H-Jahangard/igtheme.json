@@ -1,0 +1,60 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Fluent",
+    "Version": 10,
+    "Description": "Fluent Design theme (Dark)",
+    "Author": "Amir H. Jahangard",
+    "Email": "ijahangard.a@gmail.com",
+    "Website": ""
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "AppLogo": "logo.svg",
+    "PreviewImage": "preview.png"
+  },
+  "Colors": {
+    "AccentColor": "",
+    "TextColor": "#dedede",
+    "BgColor": "#191919",
+    "ToolbarBgColor": "#202020",
+    "GalleryBgColor": "#1c1c1c",
+    "MenuBgColor": "#2c2c2c"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "Fullscreen.svg",
+    "Gallery": "ThumbnailBar.svg",
+    "LockZoom": "LockRatio.svg",
+    "MainMenu": "Menu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Convert.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "GoToFirst.svg",
+    "ViewLastImage": "GotoLast.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "AdjustWindowSize.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}

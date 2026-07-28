@@ -1,0 +1,60 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Kobe",
+    "Version": 10,
+    "Description": "ImageGlass Kobe theme (Dark)",
+    "Author": "Dương Diệu Pháp",
+    "Email": "phap@imageglass.org",
+    "Website": "https://imageglass.org"
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "AppLogo": "logo.svg",
+    "PreviewImage": "preview.jpg"
+  },
+  "Colors": {
+    "AccentColor": "#016485",
+    "TextColor": "#dedede",
+    "BgColor": "#232A30",
+    "ToolbarBgColor": "#232A30",
+    "GalleryBgColor": "#232A30",
+    "MenuBgColor": "#2D363E"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "ThumbnailBar.svg",
+    "LockZoom": "LockRatio.svg",
+    "MainMenu": "Menu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Convert.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "GoToFirst.svg",
+    "ViewLastImage": "GotoLast.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "AdjustWindowSize.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}

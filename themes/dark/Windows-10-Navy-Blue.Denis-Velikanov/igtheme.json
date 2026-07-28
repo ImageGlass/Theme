@@ -1,83 +1,64 @@
 {
   "_Metadata": {
     "Description": "ImageGlass theme configuration file",
-    "Version": "9.0"
+    "Version": 10
   },
   "Info": {
     "Name": "Windows 10 Navy blue",
+    "Version": 10,
+    "Description": "Theme for the program ImageGlass in the style of Windows 10 based on the «Segoe MDL2 Assets» and «Fabric External MDL2 Assets» icons.",
     "Author": "Denis Velikanov",
     "Email": "In-bono-veritas@yandex.ru",
-    "Website": "www.deviantart.com/dehncka",
-    "Description": "Theme for the program ImageGlass in the style of Windows 10 based on the «Segoe MDL2 Assets» and «Fabric External MDL2 Assets» icons.",
-    "Version": "9.0+"
+    "Website": "https://www.deviantart.com/dehncka"
   },
   "Settings": {
     "IsDarkMode": true,
-    "NavButtonLeft": "ViewPreviousImage.svg",
-    "NavButtonRight": "ViewNextImage.svg",
     "AppLogo": "Logo.svg",
     "PreviewImage": "Preview.jpg"
   },
   "Colors": {
-    "BgColor": "#21252B",
+    "AccentColor": "#0B6CBA",
     "TextColor": "#FFFFFF",
-
+    "BgColor": "#21252B",
     "ToolbarBgColor": "#373E48",
-    "ToolbarTextColor": "#FFFFFF",
-    "ToolbarItemHoverColor": "#0B6CBA",
-    "ToolbarItemActiveColor": "#16619E",
-    "ToolbarItemSelectedColor": "#16619E",
-
     "GalleryBgColor": "#373E48",
-    "GalleryTextColor": "#FFFFFF",
-    "GalleryItemHoverColor": "#0B6CBA",
-    "GalleryItemActiveColor": "#16619E",
-    "GalleryItemSelectedColor": "#16619E",
-
-    "MenuBgColor": "#373E48",
-    "MenuBgHoverColor": "#4B525B",
-    "MenuTextColor": "#FFFFFF",
-    "MenuTextHoverColor": "#FFFFFF",
-
-    "NavigationButtonColor": "#373E4815"
+    "MenuBgColor": "#373E48"
   },
   "ToolbarIcons": {
     "ActualSize": "ActualSize.svg",
-    "AutoZoom": "AutoZoom.svg",
-    "Bookmarks": "Bookmarks.svg",
-    "Checkerboard": "Checkerboard.svg",
-    "ColorPicker": "ColorPicker.svg",
-    "Crop": "Crop.svg",
-    "Delete": "Delete.svg",
-    "Edit": "Edit.svg",
+    "AutoZoom": "autozoom.svg",
+    "Checkerboard": "checkerboard.svg",
+    "ColorPicker": "colorpicker.svg",
+    "Crop": "crop.svg",
+    "Delete": "delete.svg",
+    "Edit": "edit.svg",
     "Exit": "Exit.svg",
     "Export": "Export.svg",
-    "FlipHorz": "FlipHorz.svg",
-    "FlipVert": "FlipVert.svg",
-    "FullScreen": "FullScreen.svg",
+    "FlipHorz": "fliphorz.svg",
+    "FlipVert": "flipvert.svg",
+    "FullScreen": "fullscreen.svg",
     "Gallery": "Gallery.svg",
-    "GoToImage": "GoToImage.svg",
     "LockZoom": "LockZoom.svg",
     "MainMenu": "MainMenu.svg",
     "OpenFile": "OpenFile.svg",
     "Pause": "Pause.svg",
     "Play": "Play.svg",
-    "Print": "Print.svg",
-    "Refresh": "Refresh.svg",
+    "Print": "print.svg",
+    "Refresh": "refresh.svg",
     "RotateLeft": "RotateLeft.svg",
     "RotateRight": "RotateRight.svg",
     "Save": "Save.svg",
-    "ScaleToFill": "ScaleToFill.svg",
-    "ScaleToFit": "ScaleToFit.svg",
-    "ScaleToHeight": "ScaleToHeight.svg",
-    "ScaleToWidth": "ScaleToWidth.svg",
-    "Slideshow": "Slideshow.svg",
+    "ScaleToFill": "scaletofill.svg",
+    "ScaleToFit": "scaletofit.svg",
+    "ScaleToHeight": "scaletoheight.svg",
+    "ScaleToWidth": "scaletowidth.svg",
+    "Slideshow": "slideshow.svg",
     "ViewFirstImage": "ViewFirstImage.svg",
     "ViewLastImage": "ViewLastImage.svg",
     "ViewNextImage": "ViewNextImage.svg",
     "ViewPreviousImage": "ViewPreviousImage.svg",
     "WindowFit": "WindowFit.svg",
-    "ZoomIn": "ZoomIn.svg",
-    "ZoomOut": "ZoomOut.svg"
+    "ZoomIn": "zoomin.svg",
+    "ZoomOut": "zoomout.svg"
   }
 }

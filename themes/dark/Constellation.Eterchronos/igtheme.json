@@ -1,82 +1,64 @@
 {
   "_Metadata": {
     "Description": "ImageGlass theme configuration file",
-    "Version": "9.0"
+    "Version": 10
   },
   "Info": {
     "Name": "Constellation",
+    "Version": 10,
+    "Description": "A nice and sweet theme",
     "Author": "eterchronos",
     "Email": "lukassprovieri@gmail.com",
-    "Description": "A nice and sweet theme",
-    "Version": "9.0+"
+    "Website": ""
   },
   "Settings": {
     "IsDarkMode": true,
-    "NavButtonLeft": "ViewPreviousImage.svg",
-    "NavButtonRight": "ViewNextImage.svg",
-    "AppLogo": "eterchronos.svg",
-    "PreviewImage": "Preview.jpg"
+    "AppLogo": "",
+    "PreviewImage": "preview.jpg"
   },
   "Colors": {
-    "BgColor": "#0a0b0b",
+    "AccentColor": "#6b69d6",
     "TextColor": "#fefefe",
-
+    "BgColor": "#0a0b0b",
     "ToolbarBgColor": "#0a0b0b",
-    "ToolbarTextColor": "#fefefe",
-    "ToolbarItemHoverColor": "#28243a",
-    "ToolbarItemActiveColor": "#28243a",
-    "ToolbarItemSelectedColor": "#28243a",
-
     "GalleryBgColor": "#0a0b0b",
-    "GalleryTextColor": "#fefefe",
-    "GalleryItemHoverColor": "#28243a",
-    "GalleryItemActiveColor": "#28243a",
-    "GalleryItemSelectedColor": "#28243a",
-
-    "MenuBgColor": "#0a0b0b",
-    "MenuBgHoverColor": "#28243a",
-    "MenuTextColor": "#fefefe",
-    "MenuTextHoverColor": "#fefefe",
-
-    "NavigationButtonColor": "#6b69d6"
+    "MenuBgColor": "#0a0b0b"
   },
   "ToolbarIcons": {
     "ActualSize": "ActualSize.svg",
-    "AutoZoom": "AutoZoom.svg",
-    "Bookmarks": "Bookmarks.svg",
-    "Checkerboard": "Checkerboard.svg",
-    "ColorPicker": "ColorPicker.svg",
-    "Crop": "Crop.svg",
-    "Delete": "Delete.svg",
-    "Edit": "Edit.svg",
+    "AutoZoom": "autozoom.svg",
+    "Checkerboard": "checkerboard.svg",
+    "ColorPicker": "colorpicker.svg",
+    "Crop": "crop.svg",
+    "Delete": "delete.svg",
+    "Edit": "edit.svg",
     "Exit": "Exit.svg",
     "Export": "Export.svg",
-    "FlipHorz": "FlipHorz.svg",
-    "FlipVert": "FlipVert.svg",
-    "FullScreen": "FullScreen.svg",
+    "FlipHorz": "fliphorz.svg",
+    "FlipVert": "flipvert.svg",
+    "FullScreen": "fullscreen.svg",
     "Gallery": "Gallery.svg",
-    "GoToImage": "GoToImage.svg",
     "LockZoom": "LockZoom.svg",
-    "MainMenu": "Menu.svg",
+    "MainMenu": "menu.svg",
     "OpenFile": "OpenFile.svg",
     "Pause": "Pause.svg",
     "Play": "Play.svg",
-    "Print": "Print.svg",
-    "Refresh": "Refresh.svg",
+    "Print": "print.svg",
+    "Refresh": "refresh.svg",
     "RotateLeft": "RotateLeft.svg",
     "RotateRight": "RotateRight.svg",
     "Save": "Save.svg",
-    "ScaleToFill": "ScaleToFill.svg",
-    "ScaleToFit": "ScaleToFit.svg",
-    "ScaleToHeight": "ScaleToHeight.svg",
-    "ScaleToWidth": "ScaleToWidth.svg",
-    "Slideshow": "Slideshow.svg",
+    "ScaleToFill": "scaletofill.svg",
+    "ScaleToFit": "scaletofit.svg",
+    "ScaleToHeight": "scaletoheight.svg",
+    "ScaleToWidth": "scaletowidth.svg",
+    "Slideshow": "slideshow.svg",
     "ViewFirstImage": "ViewFirstImage.svg",
     "ViewLastImage": "ViewLastImage.svg",
     "ViewNextImage": "ViewNextImage.svg",
     "ViewPreviousImage": "ViewPreviousImage.svg",
     "WindowFit": "WindowFit.svg",
-    "ZoomIn": "ZoomIn.svg",
-    "ZoomOut": "ZoomOut.svg"
+    "ZoomIn": "zoomin.svg",
+    "ZoomOut": "zoomout.svg"
   }
 }
