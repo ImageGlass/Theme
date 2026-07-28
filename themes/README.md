@@ -17,3 +17,6 @@ Click **Open theme folder** in the same section, extract the theme folder out of
 
 ### A pack won't install?
 ImageGlass 10 only loads packs built for version 10. Older ImageGlass 9 and 8 packs are rejected, and the ones that failed are listed for you. Ask the author for an updated pack, or follow the [theme spec](../docs/theme-for-v10.md) to update it yourself.
+
+
+<img width="2194" height="1394" alt="image" src="https://github.com/user-attachments/assets/fe735ae3-d154-4b91-ab5e-94cf5590f6aa" />
