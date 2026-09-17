@@ -1,0 +1,62 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Halide Light",
+    "Version": 1,
+    "Author": "Duong Dieu Phap",
+    "Description": "Halide Light uses pale lavender surfaces with deep violet icons and small apricot details. The controls have broad, rounded shapes inspired by the dials and cutouts of film cameras. A matching \"ig\" logo and gently shaded toolbar, gallery, and menus carry the same colors throughout ImageGlass."
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "AppLogo": "Logo.svg",
+    "PreviewImage": "preview.webp"
+  },
+  "Colors": {
+    "AccentColor": "#6945BD",
+    "TextColor": "#30283F",
+    "BgColor": "#F1EFF7",
+    "ToolbarBgColor": "#FCFAFF",
+    "GalleryBgColor": "#E7E2F0",
+    "MenuBgColor": "#FEFCFF"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "MainMenu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Halide Dark",
+    "Version": 1,
+    "Author": "Duong Dieu Phap",
+    "Description": "Halide Dark pairs charcoal and smoky plum surfaces with soft violet icons and warm apricot details. The rounded, mostly solid icons are easy to pick out against the dark toolbar. Its matching \"ig\" logo uses the same curves, while slightly lighter menus and gallery panels give each part of the window its own space."
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "AppLogo": "Logo.svg",
+    "PreviewImage": "preview.webp"
+  },
+  "Colors": {
+    "AccentColor": "#C5ADFC",
+    "TextColor": "#F0EAF7",
+    "BgColor": "#191622",
+    "ToolbarBgColor": "#231E30",
+    "GalleryBgColor": "#1E192A",
+    "MenuBgColor": "#2C253B"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "MainMenu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}
