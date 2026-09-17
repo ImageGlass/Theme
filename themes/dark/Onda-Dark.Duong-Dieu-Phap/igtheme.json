@@ -1,0 +1,62 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Onda Dark",
+    "Version": 1.0,
+    "Author": "Duong Dieu Phap",
+    "Description": "Onda Dark uses deep charcoal surfaces and a single soft-silver icon color. The open line drawings have smooth curves, rounded corners, and a consistent stroke width. Its circular \"ig\" logo uses transparent lettering, while slightly lighter menus and gallery panels separate the controls from the image area."
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "AppLogo": "Logo.svg",
+    "PreviewImage": "preview.webp"
+  },
+  "Colors": {
+    "AccentColor": "#B9C5D3",
+    "TextColor": "#E4E9EF",
+    "BgColor": "#171B21",
+    "ToolbarBgColor": "#20262E",
+    "GalleryBgColor": "#1C2229",
+    "MenuBgColor": "#2A323C"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "MainMenu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}
