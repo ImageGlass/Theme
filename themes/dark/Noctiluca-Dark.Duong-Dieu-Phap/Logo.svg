@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="7.25 7.25 113.5 113.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><title>Noctiluca Dark - ImageGlass lowercase ig monogram</title>
+    <defs><linearGradient id="noctiluca-dark-tile" x1="24" y1="10" x2="105" y2="119" gradientUnits="userSpaceOnUse"><stop stop-color="#204451"/><stop offset="1" stop-color="#122535"/></linearGradient></defs>
+    <path d="M45 8h38c26 0 37 11 37 37v38c0 26-11 37-37 37H45C19 120 8 109 8 83V45C8 19 19 8 45 8Z" fill="url(#noctiluca-dark-tile)" stroke="#41656C" stroke-width="1.5"/>
+    <path d="M45 11h38c24 0 34 10 34 34v38c0 24-10 34-34 34H45c-24 0-34-10-34-34V45c0-24 10-34 34-34Z" stroke="#6CC7BA" stroke-opacity=".22" stroke-width="1.4"/>
+    <path d="M14 94c24-10 37 13 59 9 19-4 29-14 43-10v5c-4 13-14 19-32 19H45c-17 0-27-7-31-23Z" fill="#21434A"/>
+    <circle cx="37" cy="35" r="6.1" fill="#EDCF87"/>
+    <path d="M37 53v28" stroke="#68E6CD" stroke-width="11"/>
+    <circle cx="77" cy="66" r="18" stroke="#B6A5FF" stroke-width="10"/>
+    <path d="M95 49v40c0 11-7 17-18 17-7 0-12-2-16-5" stroke="#B6A5FF" stroke-width="10"/>
+  </svg>
