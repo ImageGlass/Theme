@@ -1,0 +1,62 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": 10
+  },
+  "Info": {
+    "Name": "Prism Pride Light",
+    "Version": 1,
+    "Author": "Duong Dieu Phap",
+    "Description": "Prism Pride Light pairs hot pink outlines with warm gray details on a soft rose canvas. The toolbar and gallery share a translucent rose tint, while the viewer lets just a little of the window backdrop through. The familiar ImageGlass logo keeps its white ig lettering over six solid Pride stripes."
+  },
+  "Settings": {
+    "IsDarkMode": false,
+    "AppLogo": "Logo.svg",
+    "PreviewImage": "preview.webp"
+  },
+  "Colors": {
+    "AccentColor": "#E6007E",
+    "TextColor": "#7d003f",
+    "BgColor": "#FBF3F7E6",
+    "ToolbarBgColor": "#fae1eeb0",
+    "GalleryBgColor": "#fae1eeb0",
+    "MenuBgColor": "#faebf3"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "Exit": "Exit.svg",
+    "Export": "Export.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "Gallery": "Gallery.svg",
+    "LockZoom": "LockZoom.svg",
+    "MainMenu": "MainMenu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Pause": "Pause.svg",
+    "Play": "Play.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg"
+  }
+}
